@@ -1,4 +1,4 @@
-Code for MIS 336 (2018/2019-2) project. Original website is down. Used techs: PHP, HTML/CSS/JS, SQL
+Code for MIS 336 (2018/2019-2) BUSINESS APPLICATION DEVELOPMENT project. Original website is down. Used techs: PHP, HTML/CSS/JS, SQL
 
 ---
 
