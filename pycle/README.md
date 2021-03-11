@@ -12,7 +12,7 @@ We made couple presentations at the class, and demonstrated the system.
 
 ---
 
-To test the system, clone the repo, install the requirements with `pip3 install flask, flask_restful, flask_cors`, start the API using `python3 ./pycle-api/python3 app.py`, and run `firefox pycle-web/index.html`. 
+To test the system, clone the repo, install the requirements with `pip3 install flask, flask_restful, flask_cors`, start the API using `python3 ./pycle-api/app.py`, and run `firefox pycle-web/index.html`. 
 
 ---
 
