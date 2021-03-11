@@ -1,1 +1,1 @@
-_This repo contains some of the projects i did at Bogazici University Management Information Systems department._
+This repo contains some of the projects i did at Bogazici University Management Information Systems department.
