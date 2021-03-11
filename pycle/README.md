@@ -8,7 +8,7 @@ Our goal was to gather data on bicycles, find out what people struggles with whi
 
 We scraped data from various sources and decided to use [ChainReactionCycles](https://www.chainreactioncycles.com). We interviewed with professionals to learn which part of a bicycle is more important in which scenarios. We also interviewed and surveyed students about what they would like to see in a bicycle suggestion system. 
 
-We made couple presentations at the class, and demonstrated the system. We received a grade of BB :/
+We made couple presentations at the class, and demonstrated the system.
 
 ---
 
