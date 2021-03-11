@@ -17,4 +17,7 @@ The website is no longer live. The code can be run using `nodejs`.
 ---
 
 
-<img align="center" src="https://user-images.githubusercontent.com/53492577/110802205-06be4880-828f-11eb-8d7f-8a58fe910b88.png" alt="Website screenshot">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53492577/110802205-06be4880-828f-11eb-8d7f-8a58fe910b88.png" alt="HousemateFinder website screenshot"/>
+</p>
