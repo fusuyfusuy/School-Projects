@@ -1,0 +1,4083 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Dağ Bisikletleri 
+</title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href="/skins/shared/bootstrap/css/bootstrap.min.css" rel="stylesheet" /><link href="/skins/shared/css/style.css" rel="stylesheet" /><link href="/skins/shared/css/style-assets.css" rel="stylesheet" />
+    <!-- gall-item Gallery for gallery page -->
+    <link id="ctl00_CssColor" type="text/css" rel="stylesheet" href="/skins/default/color/green.css" /><link id="ctl00_CssSkin" type="text/css" rel="stylesheet" href="/skins/default/theme.css" />
+    <script>
+        paceOptions = { elements: false };
+    </script>
+    
+    <link rel='canonical' href='https://www.bisikletcim.com/dag-bisikleti?rpg=0' />
+    <meta name="description" content="En profesyonelinden en hesaplısına onlarca marka dağ bisikleti en iyi fiyatlarla Bisikletcim.com'da Salcano, Bianchi, Bisan, Mosso ve Dünya Markaları Burada!" />
+<link rel="SHORTCUT ICON" href="/skins/bisikletcim2/images/favicon.ico ">
+<script type="text/javascript">
+    (function(p,u,s,h){
+        p._pcq=p._pcq||[];
+        p._pcq.push(['_currentTime',Date.now()]);
+        s=u.createElement('script');
+        s.type='text/javascript';
+        s.async=true;
+        s.src='https://cdn.pushcrew.com/js/9a6121f9a084b14bf9e6c34deff11e38.js';
+        h=u.getElementsByTagName('script')[0];
+        h.parentNode.insertBefore(s,h);
+    })(window,document);
+</script>
+<meta name="google-site-verification" content="DQ05zWb1XJscwZwLNNiS4ppJvJSI4b51auyftt0ElnQ" />
+ <meta http-equiv="Content-Language" content="tr" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="next" href="https://www.bisikletcim.com/dag-bisikleti?rpg=2"></head>
+<body>
+    <script type="text/javascript">
+var kmPageInfo = {kmPageId : "", kmPageType : "category", kmPageValue : 0 }
+</script>
+
+    <!-- Fixed navbar start -->
+    
+
+<!-- Fixed navbar start -->
+<div class="navbar navbar-km navbar-fixed-top megamenu headerv5" role="navigation">
+    <div class="header-container">
+<div class="header-bg">
+        <div class="navbar-top">
+            <div class="container">
+                <div class="row">
+                    <div class="pull-right">
+                        <button type="button" class="navbar-toggle  navbar-mini-cart" data-toggle="collapse" data-target=".navbar-cart">
+                            <i class="fa fa-shopping-cart"></i>&nbsp;
+                        </button>
+                        <ul class="user-menu">
+                            <li><a href="/login.aspx"><i class="fa fa-user"></i><span>ÜYE GİRİŞİ </span></a></li>
+<li class="hidden-xs"><a href="/registeruser.aspx"><i class="fa fa-user-plus"></i><span>ÜYE KAYIT </span></a></li>
+
+                            
+                        </ul>
+                    </div>
+                    <div class="hidden-lg hidden-md hidden-sm">
+                        <a class="navbar-brand mobile-logo" href="/">
+                            <img class="img-responsive" src="/skins/shared/images/logo.png" alt="LOGO">
+                        </a>
+                    </div>
+                    <div class="pull-left">
+                        
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Kategoriler</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/.navbar-top-->
+
+        <div class="w100 brandWrap hidden-xs">
+            <div class="container">
+                <div class="col-lg-12 col-md-10 col-sm-10 col-xs-14 header-center">
+                    <a class="navbar-brand " href="/">
+                        <img class="img-responsive" src="/skins/shared/images/logo.png" alt="LOGO">
+                    </a>
+                </div>
+                <div class="col-lg-7 col-md-8 col-sm-8 hidden-xs pull-left search-new">
+                    
+                    <div class="search-input-box input-group">
+                        <input type="search" name="q" placeholder="Aramak istediğinizi ürünü yazınız" class="search-input form-control">
+                        <span class="input-group-btn">
+                            <button class="btn-nobg search-btn" type="submit"><i class="fa fa-search"></i></button>
+                        </span>
+                    </div>
+                    <!-- /search  -->
+                    
+                </div>
+
+                <div class="col-lg-5 col-md-6 col-sm-6 col-xs-5 header-right">
+                    <div class="nav navbar-nav navbar-right hidden-xs">
+                        <div id="dsk-cart-menu" class="dropdown cart-menu">
+                        </div>
+                        <!--/.cart-menu-->
+                    </div>
+                    <!--/.navbar-nav hidden-xs-->
+                </div>
+            </div>
+        </div>
+        <!-- /w100 -->
+</div>
+        <div class="navbar-menu">
+            <div class="container">
+                <!-- this part is duplicate from cart-menu  keep it for mobile -->
+                <div class="navbar-cart  collapse">
+                    <h3 class="cart-h3">Sepetim</h3>
+                    <div id="mbl-cart-menu" class="cart-menu  col-lg-8 col-xs-24 col-md-8 ">
+                    </div>
+                    <!--/.cart-menu-->
+                </div>
+                <!--/.navbar-cart-->
+                
+
+                <div class="navbar-collapse collapse">
+                    
+                    <ul class="nav navbar-nav center-menu">
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Dağ</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/dag.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/dag-bisikleti">DAĞ BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/erkek-dag-bisikletleri">ERKEK BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/29-jant-model-erkek-dag-bisikletleri" class="deep-item" data-limage="">29 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/28-jant-model-erkek-dag-bisikletleri" class="deep-item" data-limage="">28 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/27.5-jant-model-erkek-dag-bisikletleri" class="deep-item" data-limage="">27.5 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/26-jant-model-erkek-dag-bisikletleri" class="deep-item" data-limage="">26 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/24-jant-model-erkek-dag-bisikletleri" class="deep-item" data-limage="">24 Jant Modeller</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/bayan-dag-bisikletleri">BAYAN BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/27.5-jant-bayan-modeller" class="deep-item" data-limage="">27,5 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/26-jant-bayan-modeller" class="deep-item" data-limage="">26 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/24-jant-bayan-modeller" class="deep-item" data-limage="">24 Jant Modeller</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Carraro" class="deep-item" data-limage="">Carraro</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Salcano" class="deep-item" data-limage="">Salcano</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Mosso" class="deep-item" data-limage="">Mosso</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Umit" class="deep-item" data-limage="">Ümit</a></li>
+                                            
+                                            <li><a href="/ag-bisikleti?brnd=Ghost" class="deep-item" data-limage="">Ghost</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Whistle" class="deep-item" data-limage="">Whistle</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Lapierre" class="deep-item" data-limage="">Lapierre</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=KTM" class="deep-item" data-limage="">KTM</a></li>
+                                            
+                                            <li><a href="/dag-bisikleti?brnd=Gomax" class="deep-item" data-limage="">Gomax</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Şehir/Gezi</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/sehir.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/sehir-tur-bisikleti">ŞEHİR - GEZİ BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/erkek-sehir-tur-bisikletleri">ERKEK ŞEHİR & YOL BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/28-model-sehir-bisikleri" class="deep-item" data-limage="">28 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/26-model-sehir-bisikleri" class="deep-item" data-limage="">26 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/24-model-sehir-bisikleri" class="deep-item" data-limage="">24 Jant Modeller</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/bayan-sehir-tur-bisikletleri">BAYAN ŞEHİR & YOL BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/28-jant-bayan-sehir-bisikletler" class="deep-item" data-limage="">28 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/26-jant-bayan-sehir-bisikletler" class="deep-item" data-limage="">26 Jant Modeller</a></li>
+                                            
+                                            <li><a href="/24-jant-bayan-sehir-bisikletler" class="deep-item" data-limage="">24 Jant Modeller</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Ghost" class="deep-item" data-limage="">Ghost</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Salcano" class="deep-item" data-limage="">Salcano</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=KTM" class="deep-item" data-limage="">KTM</a></li>
+                                            
+                                            <li><a href="/ehir-tur-bisikleti?brnd=Carraro" class="deep-item" data-limage="">Carraro</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Mondial" class="deep-item" data-limage="">Mondial</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Ümit" class="deep-item" data-limage="">Ümit</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Whistle=" class="deep-item" data-limage="">Whistle</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikleti?brnd=Lapierre=" class="deep-item" data-limage="">Lapierre</a></li>
+                                            
+                                            <li><a href="/sehir-tur-bisikletibrndgomax" class="deep-item" data-limage="">Gomax</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Yol/Yarış</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/yol_yaris.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/yol-yaris-bisikleti">YOL - YARIŞ BİSİKLETLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/yol-yaris-bisikleti?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/yol-yaris-bisikleti?brnd=Salcano" class="deep-item" data-limage="">Salcano</a></li>
+                                            
+                                            <li><a href="/yol-yaris-bisikleti?brnd=Carraro" class="deep-item" data-limage="">Carraro</a></li>
+                                            
+                                            <li><a href="/yol-yaris-bisikleti?brnd=Whistle" class="deep-item" data-limage="">Whistle</a></li>
+                                            
+                                            <li><a href="/yol-yaris-bisikleti?brnd=Mosso" class="deep-item" data-limage="">Mosso</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Çocuk</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/cocuk.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/cocuk-bisikleti/7-12-yas-20-jant-bisiklet">7-12 YAŞ BİSİKLETLER</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/cocuk-bisikleti/4-7-yas-16-jant-bisiklet">4-7 YAŞ BİSİKLETLER</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/cocuk-bisikleti/1-4-yas-12-14-jant-bisiklet">1-4 YAŞ BİSİKLETLER</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/uc-tekerlekli-cocuk-bisikleti">ÜÇ TEKERLEKLİ BEBEK BİSİKLETLER</a></strong>
+                                            </li>
+                                            
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/pilsan-oyuncak">ÇOCUK GEREÇLERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/pilsan-bahce-oyuncaklari" class="deep-item" data-limage="">Pilsan Bahçe Oyuncakları</a></li>
+                                            
+                                            <li><a href="/pilsan-bisikletler" class="deep-item" data-limage="">Pilsan Bisikletler</a></li>
+                                            
+                                            <li><a href="/pilsan-sallanan-oyuncaklar" class="deep-item" data-limage="">Pilsan Sallanan Oyuncaklar</a></li>
+                                            
+                                            <li><a href="/akulu-araba" class="deep-item" data-limage="">Akülü Araba</a></li>
+                                            
+                                            <li><a href="/pedalli-arabalar" class="deep-item" data-limage="">Pedallı Arabalar</a></li>
+                                            
+                                            <li><a href="/pedalsiz-arabalar" class="deep-item" data-limage="">Pedalsız Arabalar</a></li>
+                                            
+                                            <li><a href="/paten-kaykay-scooter" class="deep-item" data-limage="">Paten & Kaykay & Scooter</a></li>
+                                            
+                                            <li><a href="/bebek-arabalari" class="deep-item" data-limage="">Bebek Arabaları</a></li>
+                                            
+                                            <li><a href="/oto-koltuklari" class="deep-item" data-limage="">Oto Koltukları</a></li>
+                                            
+                                            <li><a href="/yurutecler" class="deep-item" data-limage="">Yürüteç</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/cocuk-bisikleti/4-7-yas-16-jant-bisiklet?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/cocuk-bisikleti/7-12-yas-20-jant-bisiklet?brnd=Mosso" class="deep-item" data-limage="">Mosso</a></li>
+                                            
+                                            <li><a href="/cocuk-bisikleti/7-12-yas-20-jant-bisiklet?brnd=Carraro+" class="deep-item" data-limage="">Carraro</a></li>
+                                            
+                                            <li><a href="/cocuk-bisikleti/1-4-yas-12-14-jant-bisiklet?brnd=Salcano" class="deep-item" data-limage="">Salcano</a></li>
+                                            
+                                            <li><a href="/pilsan" class="deep-item" data-limage="">Pilsan</a></li>
+                                            
+                                            <li><a href="/cocuk-bisikleti/4-7-yas-16-jant-bisiklet?brnd=Umit" class="deep-item" data-limage="">Ümit</a></li>
+                                            
+                                            <li><a href="/cocuk-bisikleti/7-12-yas-20-jant-bisiklet?brnd=Gomax" class="deep-item" data-limage="">Gomax</a></li>
+                                            
+                                            <li><a href="/uc-tekerlekli-cocuk-bisikleti?brnd=Baby+Poufi" class="deep-item" data-limage="">Baby Poufi</a></li>
+                                            
+                                            <li><a href="/uc-tekerlekli-cocuk-bisikleti?brnd=Esaras" class="deep-item" data-limage="">Esaras</a></li>
+                                            
+                                            <li><a href="/uc-tekerlekli-cocuk-bisikleti?brnd=Baby+Hope" class="deep-item" data-limage="">Baby Hope</a></li>
+                                            
+                                            <li><a href="/baby-2-go" class="deep-item" data-limage="">Baby 2 Go</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Özel Amaçlı</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/ozel_bisiklet.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/katlanabilir-bisiklet">ÖZEL AMAÇLI BİSİKLETLER</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/kargo-bisiklet" class="deep-item" data-limage="">Kargo Üç Teker Bisikletler</a></li>
+                                            
+                                            <li><a href="/freestyle-akrobasi-bisikleti" class="deep-item" data-limage="">Akrobasi & Freestyle Bisikletler</a></li>
+                                            
+                                            <li><a href="/katlanabilir-bisiklet" class="deep-item" data-limage="">Katlanabilir Bisikletler</a></li>
+                                            
+                                            <li><a href="/tandem-bisiklet" class="deep-item" data-limage="">Çift Kisilik Bisikletler</a></li>
+                                            
+                                            <li><a href="/fat-bike-bisikletler" class="deep-item" data-limage="">Fat Bike Bisikletler</a></li>
+                                            
+                                            <li><a href="/elektrikli-bisiklet" class="deep-item" data-limage="">Elektrikli Bisikletler</a></li>
+                                            
+                                            <li><a href="/akulu-engelli-araclari" class="deep-item" data-limage="">Akülü Engelli Araçlar</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/kargo-bisiklet?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/tandem-bisiklet?brnd=Carraro" class="deep-item" data-limage="">Carraro</a></li>
+                                            
+                                            <li><a href="/katlanabilir-bisiklet?brnd=Salcano" class="deep-item" data-limage="">Salcano</a></li>
+                                            
+                                            <li><a href="/freestyle-akrobasi-bisikleti?brnd=Umit" class="deep-item" data-limage="">Ümit</a></li>
+                                            
+                                            <li><a href="/katlanabilir-bisiklet?brnd=Mosso" class="deep-item" data-limage="">Mosso</a></li>
+                                            
+                                            <li><a href="/katlanabilir-bisiklet?brnd=Yuki" class="deep-item" data-limage="">Yuki</a></li>
+                                            
+                                            <li><a href="/akulu-engelli-araclari?brnd=Apego" class="deep-item" data-limage="">Apego</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Aksesuar/Yedek Parça</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/yedek_parca.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/bisiklet-aksesuarlari">BİSİKLET AKSESUARLARI</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/bisiklet-kask" class="deep-item" data-limage="">Bisiklet Kaskı</a></li>
+                                            
+                                            <li><a href="/bisiklet-pompasi" class="deep-item" data-limage="">Bisiklet Pompaları</a></li>
+                                            
+                                            <li><a href="/bisiklet-eldiveni" class="deep-item" data-limage="">Bisiklet Eldiveni</a></li>
+                                            
+                                            <li><a href="/bisiklet-isik-far" class="deep-item" data-limage="">Bisiklet Işık-Farları</a></li>
+                                            
+                                            <li><a href="/kilometre-saati" class="deep-item" data-limage="">Bisiklet Kilometre Saati</a></li>
+                                            
+                                            <li><a href="/suluk-suluk-kafesi" class="deep-item" data-limage="">Bisiklet Suluk-Suluk Kafesi</a></li>
+                                            
+                                            <li><a href="/bisiklet-kilit" class="deep-item" data-limage="">Bisiklet Kilitleri</a></li>
+                                            
+                                            <li><a href="/ayakkabi-" class="deep-item" data-limage="">Bisiklet Ayakkabıları</a></li>
+                                            
+                                            <li><a href="/bisiklet-cantasi" class="deep-item" data-limage="">Bisiklet Çantası</a></li>
+                                            
+                                            <li><a href="/bisiklet-gozlugu" class="deep-item" data-limage="">Bisiklet Gözlüğü</a></li>
+                                            
+                                            <li><a href="/sele" class="deep-item" data-limage="">Bisiklet Selesi</a></li>
+                                            
+                                            <li><a href="/giyim" class="deep-item" data-limage="">Bisiklet Giyim</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/bisiklet-yedek-parcalari">BİSİKLET YEDEK PARÇALARI</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/bogaz" class="deep-item" data-limage="">Boğaz</a></li>
+                                            
+                                            <li><a href="/kadro" class="deep-item" data-limage="">Kadro</a></li>
+                                            
+                                            <li><a href="/gidon" class="deep-item" data-limage="">Gidon</a></li>
+                                            
+                                            <li><a href="/arka-vites-aktarici" class="deep-item" data-limage="">Arka Vites Aktarıcı</a></li>
+                                            
+                                            <li><a href="/vites-kollari" class="deep-item" data-limage="">Vites Kolları</a></li>
+                                            
+                                            <li><a href="/fren-sistemleri" class="deep-item" data-limage="">Fren Sistemleri</a></li>
+                                            
+                                            <li><a href="/lastik" class="deep-item" data-limage="">Lastik</a></li>
+                                            
+                                            <li><a href="/pedal" class="deep-item" data-limage="">Pedal</a></li>
+                                            
+                                            <li><a href="/aynakol" class="deep-item" data-limage="">Aynakol</a></li>
+                                            
+                                            <li><a href="/masa" class="deep-item" data-limage="">Maşa</a></li>
+                                            
+                                            <li><a href="/zincir" class="deep-item" data-limage="">Zincir</a></li>
+                                            
+                                            <li><a href="/jant" class="deep-item" data-limage="">Jant</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/bisiklet-eldiveni?brnd=Bianchi" class="deep-item" data-limage="">Bianchi</a></li>
+                                            
+                                            <li><a href="/bisiklet-kask?brnd=CRATONI" class="deep-item" data-limage="">Cratoni</a></li>
+                                            
+                                            <li><a href="/bisiklet-eldiveni?brnd=MAVIC" class="deep-item" data-limage="">Mavic</a></li>
+                                            
+                                            <li><a href="/bisiklet-pompasi?brnd=GIYO" class="deep-item" data-limage="">Giro</a></li>
+                                            
+                                            <li><a href="/bisiklet-eldiveni?brnd=Shimano" class="deep-item" data-limage="">Shimano</a></li>
+                                            
+                                            <li><a href="/bisiklet-kask?brnd=Smart" class="deep-item" data-limage="">Smart</a></li>
+                                            
+                                            <li><a href="/kilometre-saati?brnd=Echowell" class="deep-item" data-limage="">Echowell</a></li>
+                                            
+                                            <li><a href="/suluk-suluk-kafesi?brnd=Zefal" class="deep-item" data-limage="">Zefal</a></li>
+                                            
+                                            <li><a href="/bogaz?brnd=Amoeba" class="deep-item" data-limage="">Amoeba</a></li>
+                                            
+                                            <li><a href="/bisiklet-isik-far?brnd=TRELOCK" class="deep-item" data-limage="">Trelock</a></li>
+                                            
+                                            <li><a href="/suluk-suluk-kafesi?brnd=XLC" class="deep-item" data-limage="">Xlc</a></li>
+                                            
+                                            <li><a href="/lastik?brnd=CST" class="deep-item" data-limage="">Cst</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Motorsiklet</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/atv.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/motosiklet">MOTORSİKLET</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/motosiklet" class="deep-item" data-limage="">Motorsiklet</a></li>
+                                            
+                                            <li><a href="/akulu-motor-scooter" class="deep-item" data-limage="">Akülü Scooter</a></li>
+                                            
+                                            <li><a href="/motorsiklet-aksesuarlari-" class="deep-item" data-limage="">Motor Aksesuarları</a></li>
+                                            
+                                            <li><a href="/mondial-motorsiklet" class="deep-item" data-limage="">Mondial Motorsiklet</a></li>
+                                            
+                                            <li><a href="/yuki-motorsiklet" class="deep-item" data-limage="">Yuki Motorsiklet</a></li>
+                                            
+                                            <li><a href="/haojue-motorsiklet" class="deep-item" data-limage="">Haojue Motorsiklet</a></li>
+                                            
+                                            <li><a href="/atv-motor" class="deep-item" data-limage="">Atv Motor</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/mondial" class="deep-item" data-limage="">Mondial</a></li>
+                                            
+                                            <li><a href="/haojue" class="deep-item" data-limage="">Haojue</a></li>
+                                            
+                                            <li><a href="/asya" class="deep-item" data-limage="">Asya</a></li>
+                                            
+                                            <li><a href="/yuki" class="deep-item" data-limage="">Yuki</a></li>
+                                            
+                                            <li><a href="/akulu-motor-scooter?brnd=Stmax" class="deep-item" data-limage="">Stmax</a></li>
+                                            
+                                            <li><a href="/akulu-motor-scooter?brnd=Volta" class="deep-item" data-limage="">Volta</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                        <li class="dropdown megamenu-fullwidth"><a data-toggle="dropdown" class="dropdown-toggle" href="#">Kamp</a>
+                            <ul class="dropdown-menu">
+                                <li class="megamenu-content ">
+                                    <div class="col-lg-24">
+                                        <!-- change width of megamenu = use class > megamenu-fullwidth, megamenu-60width, megamenu-40width -->
+                                        
+                                        
+                                        <ul class="col-lg-6 col-sm-6 col-md-6 hidden-xs unstyled noMarginLeft first-item">
+                                            <li>
+                                                <img src="/skins/shared/images/fitness.jpg" class="img-responsive" />
+                                            </li>
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/kamp-malzemeleri">KAMP MALZEMELERİ</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/aksiyon-kameralar" class="deep-item" data-limage="">Aksiyon Kameralar</a></li>
+                                            
+                                            <li><a href="/ayakkabi-ve-botlar" class="deep-item" data-limage="">Ayakkabı ve Botlar</a></li>
+                                            
+                                            <li><a href="/cadirlar" class="deep-item" data-limage="">Çadırlar</a></li>
+                                            
+                                            <li><a href="/caki-bicak-ve-baltalar" class="deep-item" data-limage="">Çakı&Bıçak</a></li>
+                                            
+                                            <li><a href="/durbun-ve-teleskoplar" class="deep-item" data-limage="">Dürbün</a></li>
+                                            
+                                            <li><a href="/fener-ve-projektorler" class="deep-item" data-limage="">Fener</a></li>
+                                            
+                                            <li><a href="/giysiler" class="deep-item" data-limage="">Giysiler</a></li>
+                                            
+                                            <li><a href="/gozlukler" class="deep-item" data-limage="">Gözlükler</a></li>
+                                            
+                                            <li><a href="/gps---navigasyon-ve-pusulalar" class="deep-item" data-limage="">Pusula</a></li>
+                                            
+                                            <li><a href="/uyku-tulumu-ve-matlar" class="deep-item" data-limage="">Uyku Tulumu</a></li>
+                                            
+                                        </ul>
+                                        
+                                        <ul class="col-lg-4 col-sm-4 col-md-4 unstyled noMarginLeft">
+                                            <li>
+                                                <strong><a href="/markalar">POPÜLER MARKALAR</a></strong>
+                                            </li>
+                                            
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Crosman" class="deep-item" data-limage="">Crosman</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Deuter" class="deep-item" data-limage="">Deuter</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Husky" class="deep-item" data-limage="">Husky</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Lowa" class="deep-item" data-limage="">Lowa</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Mondeox" class="deep-item" data-limage="">Mondeox</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Sturm+" class="deep-item" data-limage="">Sturm</a></li>
+                                            
+                                            <li><a href="/kamp-malzemeleri?brnd=Square" class="deep-item" data-limage="">Square</a></li>
+                                            
+                                            <li><a href="/aksiyon-kameralar?brnd=Rollei" class="deep-item" data-limage="">Rollei</a></li>
+                                            
+                                            <li><a href="/ayakkabi-ve-botlar?brnd=Meindl" class="deep-item" data-limage="">Meindl</a></li>
+                                            
+                                            <li><a href="/ayakkabi-ve-botlarbrndscarpa" class="deep-item" data-limage="">Scarpa</a></li>
+                                            
+                                        </ul>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <li>
+                            <a href="/indirimli-bisiklet">Fırsatlar</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <!--/.nav-collapse -->
+                
+            </div>
+            <!--/.container -->
+        </div>
+        <!--/.navbar-menu-->
+    </div>
+</div>
+<!-- /.Fixed navbar  -->
+
+<div class="hidden-lg hidden-md hidden-sm col-xs-24 search-new-mobile">
+    <div class="search-input-box input-group">
+        <input type="search" name="q" placeholder="Aramak istediğinizi ürünü yazınız" class="search-input form-control">
+        <span class="input-group-btn">
+            <button class="btn-nobg search-btn" type="submit"><i class="fa fa-search"></i></button>
+        </span>
+    </div>
+</div>
+<!-- /Mobile-search  -->
+
+    <!-- /.Fixed navbar  -->
+
+    
+    
+<div class="container header-offset">
+</div>
+<div class="container main-container">
+    <div class="row">
+        
+        <div id="ctl00_PortalContent_ctl00_LeftPane" class="col-lg-5 col-md-6 col-sm-24">
+
+<div class="panel-group" id="categoryAccordion">
+    <!--Category-->
+
+    
+
+    <div class="panel category-panel filter-panel">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="" data-toggle="collapse" href="#collapseFilter">FİLTRELER <span class="pull-right has-minus"><i class="i-minus"></i></span></a>
+            </h4>
+        </div>
+
+        
+
+        <div id="collapseFilter" class="panel-collapse collapse in">
+    
+              
+                <h2 class="panel-title">
+                  Dağ Bisikletleri
+                 </h2>
+                <div class="panel-body">
+                    <ul class="list-unstyled sub-categories">
+                        
+                        <li>
+                            <a href="/erkek-dag-bisikletleri" title="Erkek Dağ Bisikletleri">Erkek Dağ Bisikletleri</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/bayan-dag-bisikletleri" title="Bayan Dağ Bisikletleri">Bayan Dağ Bisikletleri</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            
+
+                
+                <h2 class="panel-title">Markalar</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-brand">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-amigo" data-url="/dag-bisikleti?brnd=Amigo"  />
+                            <label for="brnd-amigo">Amigo &nbsp;<span class="text-muted">(5)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-arbike" data-url="/dag-bisikleti?brnd=Arbike"  />
+                            <label for="brnd-arbike">Arbike &nbsp;<span class="text-muted">(21)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-arrow" data-url="/dag-bisikleti?brnd=Arrow"  />
+                            <label for="brnd-arrow">Arrow &nbsp;<span class="text-muted">(5)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-bianchi" data-url="/dag-bisikleti?brnd=Bianchi"  />
+                            <label for="brnd-bianchi">Bianchi &nbsp;<span class="text-muted">(68)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-bisan" data-url="/dag-bisikleti?brnd=Bisan"  />
+                            <label for="brnd-bisan">Bisan &nbsp;<span class="text-muted">(2)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-carraro-" data-url="/dag-bisikleti?brnd=Carraro "  />
+                            <label for="brnd-carraro-">Carraro  &nbsp;<span class="text-muted">(52)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-claud-butler" data-url="/dag-bisikleti?brnd=Claud Butler"  />
+                            <label for="brnd-claud-butler">Claud Butler &nbsp;<span class="text-muted">(2)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-corelli" data-url="/dag-bisikleti?brnd=Corelli"  />
+                            <label for="brnd-corelli">Corelli &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-deniss" data-url="/dag-bisikleti?brnd=Deniss"  />
+                            <label for="brnd-deniss">Deniss &nbsp;<span class="text-muted">(3)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-flood" data-url="/dag-bisikleti?brnd=Flood"  />
+                            <label for="brnd-flood">Flood &nbsp;<span class="text-muted">(4)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-ghost" data-url="/dag-bisikleti?brnd=Ghost"  />
+                            <label for="brnd-ghost">Ghost &nbsp;<span class="text-muted">(38)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-gomax" data-url="/dag-bisikleti?brnd=Gomax"  />
+                            <label for="brnd-gomax">Gomax &nbsp;<span class="text-muted">(8)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-ktm" data-url="/dag-bisikleti?brnd=KTM"  />
+                            <label for="brnd-ktm">KTM &nbsp;<span class="text-muted">(66)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-lapierre" data-url="/dag-bisikleti?brnd=Lapierre"  />
+                            <label for="brnd-lapierre">Lapierre &nbsp;<span class="text-muted">(10)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-mosso" data-url="/dag-bisikleti?brnd=Mosso"  />
+                            <label for="brnd-mosso">Mosso &nbsp;<span class="text-muted">(46)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-peugeot" data-url="/dag-bisikleti?brnd=Peugeot"  />
+                            <label for="brnd-peugeot">Peugeot &nbsp;<span class="text-muted">(5)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-qansas" data-url="/dag-bisikleti?brnd=Qansas"  />
+                            <label for="brnd-qansas">Qansas &nbsp;<span class="text-muted">(4)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-salcano" data-url="/dag-bisikleti?brnd=Salcano"  />
+                            <label for="brnd-salcano">Salcano &nbsp;<span class="text-muted">(138)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-sedona" data-url="/dag-bisikleti?brnd=Sedona"  />
+                            <label for="brnd-sedona">Sedona &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-tec" data-url="/dag-bisikleti?brnd=Tec"  />
+                            <label for="brnd-tec">Tec &nbsp;<span class="text-muted">(6)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-tunca" data-url="/dag-bisikleti?brnd=Tunca"  />
+                            <label for="brnd-tunca">Tunca &nbsp;<span class="text-muted">(7)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-umit" data-url="/dag-bisikleti?brnd=Umit"  />
+                            <label for="brnd-umit">Umit &nbsp;<span class="text-muted">(83)</span></label>
+                        </div>
+                        
+                        
+                        <div class="radio filter-input">
+                            <input type="radio" id="brnd-whistle-" data-url="/dag-bisikleti?brnd=Whistle "  />
+                            <label for="brnd-whistle-">Whistle  &nbsp;<span class="text-muted">(9)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Fırsatlar</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-status">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="sts-1" data-url="/dag-bisikleti?sts=0100"  />
+                            <label for="sts-1">Ücretsiz Kargo &nbsp;<span class="text-muted">(584)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="sts-2" data-url="/dag-bisikleti?sts=0010"  />
+                            <label for="sts-2">Yeni &nbsp;<span class="text-muted">(382)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="sts-3" data-url="/dag-bisikleti?sts=0001"  />
+                            <label for="sts-3">İndirimli Ürünler &nbsp;<span class="text-muted">(419)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Kadro Tipi</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-kadro-tipi">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1427" data-url="/dag-bisikleti?fkey=1207:1427"  />
+                            <label for="fkey-1427">Alüminyum &nbsp;<span class="text-muted">(318)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1428" data-url="/dag-bisikleti?fkey=1207:1428"  />
+                            <label for="fkey-1428">Çelik &nbsp;<span class="text-muted">(126)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1429" data-url="/dag-bisikleti?fkey=1207:1429"  />
+                            <label for="fkey-1429">Karbon &nbsp;<span class="text-muted">(47)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Vites Sayısı</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-vites-sayisi">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1435" data-url="/dag-bisikleti?fkey=1208:1435"  />
+                            <label for="fkey-1435">10 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1436" data-url="/dag-bisikleti?fkey=1208:1436"  />
+                            <label for="fkey-1436">11 &nbsp;<span class="text-muted">(21)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1437" data-url="/dag-bisikleti?fkey=1208:1437"  />
+                            <label for="fkey-1437">12 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1441" data-url="/dag-bisikleti?fkey=1208:1441"  />
+                            <label for="fkey-1441">20 &nbsp;<span class="text-muted">(9)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1442" data-url="/dag-bisikleti?fkey=1208:1442"  />
+                            <label for="fkey-1442">21 &nbsp;<span class="text-muted">(284)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1443" data-url="/dag-bisikleti?fkey=1208:1443"  />
+                            <label for="fkey-1443">21 Vites  &nbsp;<span class="text-muted">(2)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1444" data-url="/dag-bisikleti?fkey=1208:1444"  />
+                            <label for="fkey-1444">22 &nbsp;<span class="text-muted">(26)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1445" data-url="/dag-bisikleti?fkey=1208:1445"  />
+                            <label for="fkey-1445">24 &nbsp;<span class="text-muted">(45)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1446" data-url="/dag-bisikleti?fkey=1208:1446"  />
+                            <label for="fkey-1446">27 &nbsp;<span class="text-muted">(45)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1449" data-url="/dag-bisikleti?fkey=1208:1449"  />
+                            <label for="fkey-1449">30 &nbsp;<span class="text-muted">(47)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1451" data-url="/dag-bisikleti?fkey=1208:1451"  />
+                            <label for="fkey-1451">6 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1452" data-url="/dag-bisikleti?fkey=1208:1452"  />
+                            <label for="fkey-1452">7 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Süspansiyon Tipi</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-suspansiyon-tipi">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1457" data-url="/dag-bisikleti?fkey=1209:1457"  />
+                            <label for="fkey-1457">Çift Downhill &nbsp;<span class="text-muted">(93)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1458" data-url="/dag-bisikleti?fkey=1209:1458"  />
+                            <label for="fkey-1458">Tek-Ön &nbsp;<span class="text-muted">(371)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1459" data-url="/dag-bisikleti?fkey=1209:1459"  />
+                            <label for="fkey-1459">Yok &nbsp;<span class="text-muted">(17)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Fren Tipi</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-fren-tipi">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1416" data-url="/dag-bisikleti?fkey=1210:1416"  />
+                            <label for="fkey-1416">Hidrolik Disk &nbsp;<span class="text-muted">(228)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1421" data-url="/dag-bisikleti?fkey=1210:1421"  />
+                            <label for="fkey-1421">Mekanik Disk &nbsp;<span class="text-muted">(72)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1423" data-url="/dag-bisikleti?fkey=1210:1423"  />
+                            <label for="fkey-1423">V-Brake &nbsp;<span class="text-muted">(194)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+
+                
+                <h2 class="panel-title">Jant Ebat</h2>
+                <div class="panel-body smoothscroll maxheight200 fc-jant-ebat">
+                    <div class="filter-items ">
+
+                        
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1465" data-url="/dag-bisikleti?fkey=1211:1465"  />
+                            <label for="fkey-1465">24 &nbsp;<span class="text-muted">(83)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1466" data-url="/dag-bisikleti?fkey=1211:1466"  />
+                            <label for="fkey-1466">26 &nbsp;<span class="text-muted">(171)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1468" data-url="/dag-bisikleti?fkey=1211:1468"  />
+                            <label for="fkey-1468">27.5 &nbsp;<span class="text-muted">(121)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1469" data-url="/dag-bisikleti?fkey=1211:1469"  />
+                            <label for="fkey-1469">28 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1470" data-url="/dag-bisikleti?fkey=1211:1470"  />
+                            <label for="fkey-1470">29 &nbsp;<span class="text-muted">(107)</span></label>
+                        </div>
+                        
+                        
+                        <div class="checkbox filter-input">
+                            <input type="checkbox" id="fkey-1955" data-url="/dag-bisikleti?fkey=1211:1955"  />
+                            <label for="fkey-1955">27,5 &nbsp;<span class="text-muted">(1)</span></label>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+        </div>
+    </div>
+
+    
+</div>
+<br class="module-separator" /></div>
+        <div id="ctl00_PortalContent_ctl00_ContentPane" class="col-lg-19 col-md-18 col-sm-24">
+
+
+<div class="row">
+    <div class="col-lg-24">
+
+        
+
+        <div class="cat-top-bar clearfix">
+            <div class="cat-top-bar-inner clearfix">
+                <div class="f-right">
+                    <div class="w100  clearfix center-xs-inner">
+                        <div class="pull-left shrtByP center-xs">
+
+                            
+                            <a href="/dag-bisikleti?srt=1&rpg=0" class="">Ürün Adı A-Z</a> | 
+                            <a href="/dag-bisikleti?srt=2&rpg=0" class="">Ürün Adı Z-A</a> | 
+                            <a href="/dag-bisikleti?srt=3&rpg=0" class="">DÜŞÜK FİYAT</a> | 
+                            <a href="/dag-bisikleti?srt=4&rpg=0" class="">YÜKSEK FİYAT</a>
+                        </div>
+                        <div class="pull-right hidden-xs">
+                            <p class="pull-right change-view">
+                                <a href="#" title="Grid" class="grid-view"><i class="fa fa-th-large"></i></a><a href="#" title="List" class="list-view"><i class="fa fa-th-list"></i></a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-24 col-md-24 col-sm-24 category-column">
+        <div class="row  category-product xs-response clearfix scrollingcontent">
+            <div class="listitempage">
+                
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-astro-s-hd-24-vites-27.5-jant-bisiklet' title='Salcano Astro S HD 24 Vites 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/30922/middle/salcano-astro-29s-hd-bisiklet-siyah-sari.jpg' alt="img" class="img-responsive" title="Salcano Astro S HD 24 Vites 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-new">
+                            <span class="list-icon new-product" title="Yeni">Yeni</span>
+                            </div>
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">9% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Astro HD 27,5">
+
+            <h4><a href="/salcano-astro-s-hd-24-vites-27.5-jant-bisiklet">
+                
+                
+                
+                Salcano Astro S HD 24 Vites 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">3.199,00 TL</span>
+            
+            
+            
+                <span class="price-sales">2.899,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=30922' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-450-v-26-jant-bisiklet-2018-model' title='Salcano NG 450 V 26 Jant Bisiklet'>
+                <img src='/ProductImages/41699/middle/33ng45026v-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 450 V 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-new">
+                            <span class="list-icon new-product" title="Yeni">Yeni</span>
+                            </div>
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">16% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="NG 450 V 26 2016">
+
+            <h4><a href="/salcano-ng-450-v-26-jant-bisiklet-2018-model">
+                
+                
+                
+                Salcano NG 450 V 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">2.499,00 TL</span>
+            
+            
+            
+                <span class="price-sales">2.089,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=41699' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-astro-lady-hd-27.5-jant-bisiklet' title='Salcano Astro Lady HD 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/38424/middle/76638844905325677312.jpg' alt="img" class="img-responsive" title="Salcano Astro Lady HD 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-new">
+                            <span class="list-icon new-product" title="Yeni">Yeni</span>
+                            </div>
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">12% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Astro Lady HD">
+
+            <h4><a href="/salcano-astro-lady-hd-27.5-jant-bisiklet">
+                
+                
+                
+                Salcano Astro Lady HD 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">3.299,00 TL</span>
+            
+            
+            
+                <span class="price-sales">2.899,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=38424' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/umit-2451-pegretta-21-vites-24-jant-bisiklet' title='Ümit 2451 Pegretta 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/43817/middle/2451.jpg' alt="img" class="img-responsive" title="Ümit 2451 Pegretta 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">20% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="039467">
+
+            <h4><a href="/umit-2451-pegretta-21-vites-24-jant-bisiklet">
+                
+                
+                
+                Ümit 2451 Pegretta 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">1.199,00 TL</span>
+            
+            
+            
+                <span class="price-sales">949,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=43817' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-333-hd-27-vites-27.5-jant-bisiklet' title='Salcano NG 333 HD 27 Vites 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/44558/middle/ng33327.5-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 333 HD 27 Vites 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">14% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42655">
+
+            <h4><a href="/salcano-ng-333-hd-27-vites-27.5-jant-bisiklet">
+                
+                
+                
+                Salcano NG 333 HD 27 Vites 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">3.499,00 TL</span>
+            
+            
+            
+                <span class="price-sales">2.999,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44558' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-camel-24-jant-21-vites-erkek-bisiklet' title='Tec Camel 24 Jant 21 Vites Erkek Bisiklet'>
+                <img src='/ProductImages/44819/middle/teccamel24.jpg' alt="img" class="img-responsive" title="Tec Camel 24 Jant 21 Vites Erkek Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">11% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="43614">
+
+            <h4><a href="/tec-camel-24-jant-21-vites-erkek-bisiklet">
+                
+                
+                
+                Tec Camel 24 Jant 21 Vites Erkek Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">899,00 TL</span>
+            
+            
+            
+                <span class="price-sales">799,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44819' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-black-24-jant-21-vites-cift-amortisorlu-dag-bisikleti' title='Tec Black 24 Jant 21 Vites Çift Amortisörlü Dağ Bisikleti'>
+                <img src='/ProductImages/44814/middle/524534334_6.jpg' alt="img" class="img-responsive" title="Tec Black 24 Jant 21 Vites Çift Amortisörlü Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">5% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="43623">
+
+            <h4><a href="/tec-black-24-jant-21-vites-cift-amortisorlu-dag-bisikleti">
+                
+                
+                
+                Tec Black 24 Jant 21 Vites Çift Amortisörlü Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">899,00 TL</span>
+            
+            
+            
+                <span class="price-sales">849,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44814' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-master-26-jant-cift-amortisorlu-21-vites-dag-bisikleti' title='Tec Master 26 Jant Çift Amortisörlü 21 Vites Dağ Bisikleti'>
+                <img src='/ProductImages/44816/middle/mastersiyahkirmizi.jpg' alt="img" class="img-responsive" title="Tec Master 26 Jant Çift Amortisörlü 21 Vites Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">5% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="43622">
+
+            <h4><a href="/tec-master-26-jant-cift-amortisorlu-21-vites-dag-bisikleti">
+                
+                
+                
+                Tec Master 26 Jant Çift Amortisörlü 21 Vites Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">899,00 TL</span>
+            
+            
+            
+                <span class="price-sales">849,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44816' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-strong-21-vites-26-jant-bisiklet' title='Tec Strong 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/44851/middle/587526232_0.jpg' alt="img" class="img-responsive" title="Tec Strong 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">4% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="44734">
+
+            <h4><a href="/tec-strong-21-vites-26-jant-bisiklet">
+                
+                
+                
+                Tec Strong 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">885,00 TL</span>
+            
+            
+            
+                <span class="price-sales">849,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44851' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/umit-2634-explorer-26-jant-kiz-bisikleti' title='Ümit 2634 Explorer 26 Jant Kız Bisikleti'>
+                <img src='/ProductImages/44857/middle/26exkiz.jpg' alt="img" class="img-responsive" title="Ümit 2634 Explorer 26 Jant Kız Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">15% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="26340">
+
+            <h4><a href="/umit-2634-explorer-26-jant-kiz-bisikleti">
+                
+                
+                
+                Ümit 2634 Explorer 26 Jant Kız Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">999,00 TL</span>
+            
+            
+            
+                <span class="price-sales">849,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44857' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/umit-2633-explorer-26-jant-erkek-bisikletii' title='Ümit 2633 Explorer 26 Jant Erkek Bisikleti'>
+                <img src='/ProductImages/44858/middle/26exerkek.jpg' alt="img" class="img-responsive" title="Ümit 2633 Explorer 26 Jant Erkek Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                    <div class="promotion-first">
+                        
+                            <div class="product-discount">
+                            <span title="İndirim Oranı"
+                                class="discount">15% </span>
+                            </div>
+                        
+                    </div>
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="26330">
+
+            <h4><a href="/umit-2633-explorer-26-jant-erkek-bisikletii">
+                
+                
+                
+                Ümit 2633 Explorer 26 Jant Erkek Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+                <span class="price-standard">999,00 TL</span>
+            
+            
+            
+                <span class="price-sales">849,00 TL</span>
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="action-control">
+            
+                <div class="buy-action on-hover">
+                    <a title="Sepete Ekle" href='/Store/AddToCart.aspx?productID=44858' class="btn btn-primary btn-buy">Sepete Ekle</a>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/umit-2660-accrue-sp-2d-26-jant-bisiklet' title='Ümit 2660 Accrue SP 2D 26 Jant Bisiklet'>
+                <img src='/ProductImages/44577/middle/2660-accrue-sp-gxdkvx.jpg' alt="img" class="img-responsive" title="Ümit 2660 Accrue SP 2D 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42892">
+
+            <h4><a href="/umit-2660-accrue-sp-2d-26-jant-bisiklet">
+                
+                
+                
+                Ümit 2660 Accrue SP 2D 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-bella-21-vites-26-jant-bisiklet' title='Bianchi Bella 21 Vites 26 Jant Bisiklet	'>
+                <img src='/ProductImages/44818/middle/bianchi-bella-26-26-21v-vb-2019.jpg' alt="img" class="img-responsive" title="Bianchi Bella 21 Vites 26 Jant Bisiklet	">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42515">
+
+            <h4><a href="/bianchi-bella-21-vites-26-jant-bisiklet">
+                
+                
+                
+                Bianchi Bella 21 Vites 26 Jant Bisiklet	
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-eros-21-vites-26-jant-bayan-bisikleti' title='Tec Eros 21 Vites 26 Jant Bayan Bisikleti'>
+                <img src='/ProductImages/44815/middle/tec-eros-26-jant-v-fren-21-vites-bayan-bisiklet__1218913992951143.jpg' alt="img" class="img-responsive" title="Tec Eros 21 Vites 26 Jant Bayan Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="43615">
+
+            <h4><a href="/tec-eros-21-vites-26-jant-bayan-bisikleti">
+                
+                
+                
+                Tec Eros 21 Vites 26 Jant Bayan Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/tec-reis-21-vites-26-jant-dag-bisikleti' title='Tec Reis 21 Vites 26 Jant Dağ Bisikleti'>
+                <img src='/ProductImages/44820/middle/tec-reis-21-vites-26-jant-dag-bisikleti-1568.jpg' alt="img" class="img-responsive" title="Tec Reis 21 Vites 26 Jant Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="43620">
+
+            <h4><a href="/tec-reis-21-vites-26-jant-dag-bisikleti">
+                
+                
+                
+                Tec Reis 21 Vites 26 Jant Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/amigo-amortisorsuz-24-jant-erkek-bisikleti' title='Amigo Amortisörsüz 24 Jant Erkek Bisikleti'>
+                <img src='/ProductImages/44829/middle/24-jant-spor-amigo-sehir-bisikleti-510-jpg.jpeg' alt="img" class="img-responsive" title="Amigo Amortisörsüz 24 Jant Erkek Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53213">
+
+            <h4><a href="/amigo-amortisorsuz-24-jant-erkek-bisikleti">
+                
+                
+                
+                Amigo Amortisörsüz 24 Jant Erkek Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/amigo-amortisorsuz-24-jant-kiz-bisikleti' title='Amigo Amortisörsüz 24 Jant Kız Bisikleti'>
+                <img src='/ProductImages/44830/middle/24-jant-2018-spor-amigo-yol-bisikleti-523-jpg.jpeg' alt="img" class="img-responsive" title="Amigo Amortisörsüz 24 Jant Kız Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53214">
+
+            <h4><a href="/amigo-amortisorsuz-24-jant-kiz-bisikleti">
+                
+                
+                
+                Amigo Amortisörsüz 24 Jant Kız Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/amigo-amortisorsuz-26-jant-erkek-bisikleti' title='Amigo Amortisörsüz 26 Jant Erkek Bisikleti'>
+                <img src='/ProductImages/44831/middle/26-jant-2018-spor-amigo-yol-bisikleti-511-jpg.jpeg' alt="img" class="img-responsive" title="Amigo Amortisörsüz 26 Jant Erkek Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53216">
+
+            <h4><a href="/amigo-amortisorsuz-26-jant-erkek-bisikleti">
+                
+                
+                
+                Amigo Amortisörsüz 26 Jant Erkek Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/amigo-runner-21-vites-cift-amortisorlu-24-jant-bisiklet' title='Amigo Runner 21 Vites Çift Amortisörlü 24 Jant Bisiklet'>
+                <img src='/ProductImages/44832/middle/24-jant-cift-amortisor-amigo-sehir-bisikleti-1905-jpg.jpeg' alt="img" class="img-responsive" title="Amigo Runner 21 Vites Çift Amortisörlü 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53215">
+
+            <h4><a href="/amigo-runner-21-vites-cift-amortisorlu-24-jant-bisiklet">
+                
+                
+                
+                Amigo Runner 21 Vites Çift Amortisörlü 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/amigo-runner-21-vites-cift-amortisorlu-26-jant-bisiklet' title='Amigo Runner 21 Vites Çift Amortisörlü 26 Jant Bisiklet'>
+                <img src='/ProductImages/44833/middle/26-jant-2018-cift-amortisor-amigo-yol-bisikleti-419-jpg.jpeg' alt="img" class="img-responsive" title="Amigo Runner 21 Vites Çift Amortisörlü 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53217">
+
+            <h4><a href="/amigo-runner-21-vites-cift-amortisorlu-26-jant-bisiklet">
+                
+                
+                
+                Amigo Runner 21 Vites Çift Amortisörlü 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/peugeot-jm-245-v-360h-24-jant-21-vites-dag-bisikleti' title='Peugeot JM 245 V 360H 24 Jant 21 Vites Dağ Bisikleti'>
+                <img src='/ProductImages/44837/middle/peugeot-jm-24-5-v-24-jant-21-vites-dag-bisikleti-celik-siyah-turuncu-11226.jpg' alt="img" class="img-responsive" title="Peugeot JM 245 V 360H 24 Jant 21 Vites Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53236">
+
+            <h4><a href="/peugeot-jm-245-v-360h-24-jant-21-vites-dag-bisikleti">
+                
+                
+                
+                Peugeot JM 245 V 360H 24 Jant 21 Vites Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/peugeot-jm-244-bayan-v-360h-24-jant-21-vites-dag-bisikleti' title='Peugeot JM 244 Bayan V 360H 24 Jant 21 Vites Dağ Bisikleti'>
+                <img src='/ProductImages/44838/middle/peugeot-jm-244-bayan-v-24-jant-21-vites-dag-bisikleti-siyah-fusya-36-cm-15962.jpg' alt="img" class="img-responsive" title="Peugeot JM 244 Bayan V 360H 24 Jant 21 Vites Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53235">
+
+            <h4><a href="/peugeot-jm-244-bayan-v-360h-24-jant-21-vites-dag-bisikleti">
+                
+                
+                
+                Peugeot JM 244 Bayan V 360H 24 Jant 21 Vites Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/peugeot-m19-432h-21-vites-27.5-jant-bisiklet' title='Peugeot M19 432H 21 Vites 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/44840/middle/549349815_0.jpg' alt="img" class="img-responsive" title="Peugeot M19 432H 21 Vites 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53232">
+
+            <h4><a href="/peugeot-m19-432h-21-vites-27.5-jant-bisiklet">
+                
+                
+                
+                Peugeot M19 432H 21 Vites 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/peugeot-m13-26-jant-432h-21-vites-26-jant-bisiklet' title='Peugeot M13 26 Jant 432H 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/44841/middle/m13-26.jpg' alt="img" class="img-responsive" title="Peugeot M13 26 Jant 432H 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53233">
+
+            <h4><a href="/peugeot-m13-26-jant-432h-21-vites-26-jant-bisiklet">
+                
+                
+                
+                Peugeot M13 26 Jant 432H 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/peugeot-m16-21-vites-26-jant-bayan-dag-bisikleti' title='Peugeot M16 21 Vites 26 Jant Bayan Dağ Bisikleti'>
+                <img src='/ProductImages/44844/middle/m16-26.jpg' alt="img" class="img-responsive" title="Peugeot M16 21 Vites 26 Jant Bayan Dağ Bisikleti">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="53234">
+
+            <h4><a href="/peugeot-m16-21-vites-26-jant-bayan-dag-bisikleti">
+                
+                
+                
+                Peugeot M16 21 Vites 26 Jant Bayan Dağ Bisikleti
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-444-hd-24-vites-27.5-jant-bisiklet' title='Salcano NG 444 HD 24 Vites 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/44559/middle/ng444hd-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 444 HD 24 Vites 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42656">
+
+            <h4><a href="/salcano-ng-444-hd-24-vites-27.5-jant-bisiklet">
+                
+                
+                
+                Salcano NG 444 HD 24 Vites 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-650-v-lady-21-vites-24-jant-bisiklet' title='Salcano NG 650 V Lady 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/44560/middle/ng65024lv-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 650 V Lady 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42665">
+
+            <h4><a href="/salcano-ng-650-v-lady-21-vites-24-jant-bisiklet">
+                
+                
+                
+                Salcano NG 650 V Lady 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-lion-md-21-vites-27.5-jant-bisiklet' title='Salcano Lion MD 21 Vites 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/44562/middle/lion27.5md-1170x740.jpg' alt="img" class="img-responsive" title="Salcano Lion MD 21 Vites 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="42693">
+
+            <h4><a href="/salcano-lion-md-21-vites-27.5-jant-bisiklet">
+                
+                
+                
+                Salcano Lion MD 21 Vites 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/carraro-speed-242-bayan-21-vites-24-jant-bisiklet' title='Carraro Speed 242 Bayan 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/44563/middle/speed-242-21v-vb-24-454.jpg' alt="img" class="img-responsive" title="Carraro Speed 242 Bayan 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Speed 242">
+
+            <h4><a href="/carraro-speed-242-bayan-21-vites-24-jant-bisiklet">
+                
+                
+                
+                Carraro Speed 242 Bayan 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/carraro-force-700-21-v-27.5-jant-bisiklet' title='Carraro Force 700 21 V 27.5 Jant Bisiklet'>
+                <img src='/ProductImages/44571/middle/force-700-21v-vb-275.jpg' alt="img" class="img-responsive" title="Carraro Force 700 21 V 27.5 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Force 700">
+
+            <h4><a href="/carraro-force-700-21-v-27.5-jant-bisiklet">
+                
+                
+                
+                Carraro Force 700 21 V 27.5 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-650-md-26-jant-bisiklet' title='Salcano NG 650 MD 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/26949/middle/ng65026md-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 650 MD 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="650 DİSK">
+
+            <h4><a href="/salcano-ng-650-md-26-jant-bisiklet">
+                
+                
+                
+                Salcano NG 650 MD 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-650-v-lady-26-bisiklet' title='Salcano NG 650 V Lady 26 Jant Bisiklet'>
+                <img src='/ProductImages/26950/middle/ng650vlady.jpg' alt="img" class="img-responsive" title="Salcano NG 650 V Lady 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="NG 650 LADY">
+
+            <h4><a href="/salcano-ng-650-v-lady-26-bisiklet">
+                
+                
+                
+                Salcano NG 650 V Lady 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-efes-d-24-bisiklet' title='Salcano Efes MD 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/26954/middle/efes24hd.jpg' alt="img" class="img-responsive" title="Salcano Efes MD 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="24 DİSK ">
+
+            <h4><a href="/salcano-efes-d-24-bisiklet">
+                
+                
+                
+                Salcano Efes MD 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-spider-401-24' title='Bianchi Spider 401 21 Vites MD 24 Jant Bisiklet'>
+                <img src='/ProductImages/26965/middle/bianchispider-401.jpg' alt="img" class="img-responsive" title="Bianchi Spider 401 21 Vites MD 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="401 AL.">
+
+            <h4><a href="/bianchi-spider-401-24">
+                
+                
+                
+                Bianchi Spider 401 21 Vites MD 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-speed-1000-26-bisiklet' title='Bianchi Speed 1000 21 V 26 Jant Bisiklet'>
+                <img src='/ProductImages/27932/middle/accel-bianchi-speed1000-1082-ctn-1.jpg' alt="img" class="img-responsive" title="Bianchi Speed 1000 21 V 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="018958">
+
+            <h4><a href="/bianchi-speed-1000-26-bisiklet">
+                
+                
+                
+                Bianchi Speed 1000 21 V 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-speed-3000-26-jant-bisiklet' title='Bianchi Speed 3000 26 Jant Bisiklet'>
+                <img src='/ProductImages/27934/middle/bianchi-speed-3000-26-jant-bisikle.jpg' alt="img" class="img-responsive" title="Bianchi Speed 3000 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="018962">
+
+            <h4><a href="/bianchi-speed-3000-26-jant-bisiklet">
+                
+                
+                
+                Bianchi Speed 3000 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-montana-v-26-bisiklet' title='Bianchi Montana V 26 Jant Bisiklet'>
+                <img src='/ProductImages/27936/middle/bianchi-montana-v-26-jant-bisiklet-2017.jpg' alt="img" class="img-responsive" title="Bianchi Montana V 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="018969">
+
+            <h4><a href="/bianchi-montana-v-26-bisiklet">
+                
+                
+                
+                Bianchi Montana V 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-650-v-26-jant-bisiklet' title='Salcano NG 650 V 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/23406/middle/ng65026v-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 650 V 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="SAL-600">
+
+            <h4><a href="/salcano-ng-650-v-26-jant-bisiklet">
+                
+                
+                
+                Salcano NG 650 V 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-ng-650-v-24-bisiklet' title='Salcano NG 650 V 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/25179/middle/ng65024v-1170x740.jpg' alt="img" class="img-responsive" title="Salcano NG 650 V 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="NG-650">
+
+            <h4><a href="/salcano-ng-650-v-24-bisiklet">
+                
+                
+                
+                Salcano NG 650 V 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-luca-24-bisiklet' title='Bianchi Luca 24 Jant Bisiklet'>
+                <img src='/ProductImages/25320/middle/bianchi-luca-24-bisikle.jpg' alt="img" class="img-responsive" title="Bianchi Luca 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Bia-Luca">
+
+            <h4><a href="/bianchi-luca-24-bisiklet">
+                
+                
+                
+                Bianchi Luca 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-shark-26-bisiklet' title='Bianchi Shark 26 Jant Bisiklet'>
+                <img src='/ProductImages/25323/middle/bianchi-shark-26-bisiklet.jpg' alt="img" class="img-responsive" title="Bianchi Shark 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Bia-Sha">
+
+            <h4><a href="/bianchi-shark-26-bisiklet">
+                
+                
+                
+                Bianchi Shark 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/bianchi-flora-26-jant-bisiklet' title='Bianchi Flora 26 Jant Bisiklet'>
+                <img src='/ProductImages/25331/middle/bianchi-flora-26-jant-bisikle.jpg' alt="img" class="img-responsive" title="Bianchi Flora 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="Bia-Flo">
+
+            <h4><a href="/bianchi-flora-26-jant-bisiklet">
+                
+                
+                
+                Bianchi Flora 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-efes-v-26-bisiklet' title='Salcano Efes V 26 Jant Bisiklet'>
+                <img src='/ProductImages/25417/middle/salcano-efes-v-26-bisiklet-2017.jpg' alt="img" class="img-responsive" title="Salcano Efes V 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="EFES-26">
+
+            <h4><a href="/salcano-efes-v-26-bisiklet">
+                
+                
+                
+                Salcano Efes V 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-nova-26-bisiklet' title='Salcano Nova 26 Jant 21 Vites Bisiklet'>
+                <img src='/ProductImages/25420/middle/novav.jpg' alt="img" class="img-responsive" title="Salcano Nova 26 Jant 21 Vites Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="NOVA-26">
+
+            <h4><a href="/salcano-nova-26-bisiklet">
+                
+                
+                
+                Salcano Nova 26 Jant 21 Vites Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-hector-v-26bisiklet' title='Salcano Hector V 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/25421/middle/hectorv.jpg' alt="img" class="img-responsive" title="Salcano Hector V 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="HECTOR-26 ">
+
+            <h4><a href="/salcano-hector-v-26bisiklet">
+                
+                
+                
+                Salcano Hector V 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-excel-26-bisiklet' title='Salcano Excel 21 Vites 26 Jant Bisiklet'>
+                <img src='/ProductImages/25423/middle/excel26.jpg' alt="img" class="img-responsive" title="Salcano Excel 21 Vites 26 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="EXCEL-26">
+
+            <h4><a href="/salcano-excel-26-bisiklet">
+                
+                
+                
+                Salcano Excel 21 Vites 26 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-efes-v-24-bisiklet' title='Salcano Efes V 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/25425/middle/salcano-efes-v-24-bisiklet-2017.jpg' alt="img" class="img-responsive" title="Salcano Efes V 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="EFES-24">
+
+            <h4><a href="/salcano-efes-v-24-bisiklet">
+                
+                
+                
+                Salcano Efes V 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+<div class="item itemauto col-lg-8 col-md-8 col-sm-8 col-xs-12 col-xs-min-12">
+    <div class="product relative">
+
+        
+        <div class="image-hover hover-nav">
+            <a href='/salcano-nova-24-bisiklet' title='Salcano Nova 21 Vites 24 Jant Bisiklet'>
+                <img src='/ProductImages/25426/middle/nova-24-v.jpg' alt="img" class="img-responsive" title="Salcano Nova 21 Vites 24 Jant Bisiklet">
+            </a>
+        </div>
+            <div class="promotion-new">
+                
+                <div class="promotion-second">
+                    
+                </div>
+            </div>
+        <div class="product-status">
+            
+            
+        </div>
+      <div class="description" data-sku="NOVA-24">
+
+            <h4><a href="/salcano-nova-24-bisiklet">
+                
+                
+                
+                Salcano Nova 21 Vites 24 Jant Bisiklet
+            </a></h4>
+            
+        </div>
+
+        <div class="price price-box">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <span class="no-stock" title="Ürün Tükendi">Ürün Tükendi</span>
+            
+        </div>
+        <div class="action-control">
+            
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+
+        <div class="w100 category-footer">
+            <div class="pagination pull-right no-margin-top">
+                
+
+<ul class="pagination no-margin-top">
+    
+    <li>
+        
+    </li>
+
+    <li>
+        
+    </li>
+    
+            <li class="active">
+                <a id="ctl00_PortalContent_ctl00_ctl00_PagingControl_NumberList_ctl00_BtnPageNumber" class="pager-btn" CommandArgument="1" href="/dag-bisikleti"><span>1</span></a>
+            </li>
+        
+            <li class="">
+                <a id="ctl00_PortalContent_ctl00_ctl00_PagingControl_NumberList_ctl01_BtnPageNumber" class="pager-btn" CommandArgument="2" href="/dag-bisikleti?rpg=2"><span>2</span></a>
+            </li>
+        
+            <li class="">
+                <a id="ctl00_PortalContent_ctl00_ctl00_PagingControl_NumberList_ctl02_BtnPageNumber" class="pager-btn" CommandArgument="3" href="/dag-bisikleti?rpg=3"><span>3</span></a>
+            </li>
+        
+    <li>
+        <a id="ctl00_PortalContent_ctl00_ctl00_PagingControl_BtnNext" class="next" href="/dag-bisikleti?rpg=2"><span>></span></a>
+    </li>
+
+    <li>
+        <a id="ctl00_PortalContent_ctl00_ctl00_PagingControl_BtnLast" class="last" href="/dag-bisikleti?rpg=13"><span>>></span></a>
+    </li>
+
+</ul>
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<br class="module-separator" />
+
+
+<div class="category-text">
+    <h1 class="text-left block-title-1">Dağ Bisikletleri </h1>
+    <p class="text-left"><p>
+	<strong>Dağ bisikletleri </strong>kalın ve dişli tekerlekleri, d&uuml;z gidonları, amortis&ouml;rl&uuml; maşaları, y&uuml;ksek dayanımlı kadroları ile son zamanların en pop&uuml;ler <a href="http://www.bisikletcim.com/" title="bisiklet">bisiklet</a> grubudur. &Uuml;retim amacı patika ve bozuk yollarda (off road ) kullanmak olan <strong>dağ bisikletleri </strong>( MTB mountain bike) ATB (all terrain bike t&uuml;m araziler i&ccedil;in uygun) isminden de anlaşılacağı gibi her ama&ccedil; i&ccedil;in uygun bisikletler halini almıştır bu neden ile asfalt ve şehirde de sık sık g&ouml;rmek m&uuml;mk&uuml;nd&uuml;r ancak sadece şehir ve d&uuml;z yol kullanımı d&uuml;ş&uuml;n&uuml;yorsanız <a href="http://www.bisikletcim.com/sehir-tur-bisikleti" target="_blank" title="700c bisikletler">28 jant ince teker bisikletler</a> daha uygun olabilir, dağ bisikletleri<strong>&nbsp;&ccedil;</strong>elik, al&uuml;minyum ve karbon fiber olarak &uuml;retilen dağ bisikletlerinde en uygun fiyatlı olanlar &ccedil;elik g&ouml;vde ve daha sonra sırasıyla al&uuml;minyum ve karbon fiber olanlardır. Ebat olarak genel anlamda 24, 26 ve 29 jant ebatlarında &uuml;retilen <strong>dağ bisikletlerinin</strong> en &ccedil;ok tercih edilen ebatı 26 jant olanıdır. Bisikletcim size T&uuml;rkiye de satılan neredeyse t&uuml;m markaların modellerin tamamına yakınını stoktan sunmaktan gurur duyar. Sayfamızın sol kısımında bulunan filitreleri kullanarak kendinize en uygun <strong>dağ bisikletini </strong>rahatlıkla se&ccedil;ebilirsiniz. Ayrıca linki tıklayarak diğer t&uuml;m <a href="http://www.bisikletcim.com/salcano" onclick="window.open(this.href, '', 'resizable=no,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=no,dependent=no'); return false;">salcano bisiklet</a> modelleri g&ouml;rebilirsiniz,</p>
+ </p>
+</div>
+<br class="module-separator" /></div>
+        
+    </div>
+</div>
+
+
+
+    <div class="gap"></div>
+
+    
+
+<footer>
+    <div class="parallax_box">
+        <div class="container">
+            <div class="row">
+            </div>
+        </div>
+    </div>
+    <div class="footer footerv5">
+        
+        <div class="footer-center">
+            <div class="container bottom-menu">
+                <div class="row">
+                    <div class="col-lg-7 col-md-7 col-sm-12 col-xs-24">
+                                          <div class="footer-info">
+                  <h3>BİSİKLETCİM.COM</h3>
+                  <hr class="divider divider-xs">
+                <p>1985 yılından beri Orta Anadolu’da hizmet veren şirketimiz kurulduğu günden beri bisiklet sektöründe faaliyet göstermektedir ve bu sektörün en eskilerindendir demek pek de abartılı olmaz. Süreç içerisinde birçok bisiklet markasının bölge distribütörlüğünü yürütmüş, bulunduğu bölgenin ilklerini yaparak 5 tane mağaza açmış ve bilinen birçok markanın bayiliğini showroomlarında sürdürmektedir.</p></div>
+                        
+                <div class="social clearboth  text-center">
+                    <span><a href="http://www.facebook.com/bisikletcimcom/"><i class=" fa fa-facebook">&nbsp; </i></a></span>
+                    <span><a href="http://twitter.com/bisikletcimcom"><i class="fa fa-twitter">&nbsp; </i></a></span>
+                    <span><a href="http://www.youtube.com/channel/UCO4knOewA6Yv9IePRTSfJSw"><i class="fa fa-youtube">&nbsp; </i></a></span>
+                </div>
+
+                        
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-24 ">
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bottommenu-child">
+                            <h3>YARDIM</h3>
+                            <hr class="divider divider-xs">
+                            
+                            
+                            <ul>
+                                
+                                <li><a href="gizlilik-sozlesmesi">Gizlilik Sözleşmesi </a></li>
+                                
+                                <li><a href="/satis-sozlesmesi">Satış Sözleşmesi </a></li>
+                                
+                                <li><a href="/hakkimizda">Hakkımızda </a></li>
+                                
+                                <li><a href="/uyelik">Üyelik </a></li>
+                                
+                                <li><a href="kisisel-verilerin-korunmasi">Kişisel Verilerin Korunması </a></li>
+                                
+                            </ul>
+                            
+                        </div>
+                        
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bottommenu-child">
+                            <h3>Yasal haklar</h3>
+                            <hr class="divider divider-xs">
+                            
+                            
+                            <ul>
+                                
+                                <li><a href="/siparis-ve-teslimat">Sipariş ve Teslimat </a></li>
+                                
+                                <li><a href="/iade-kosullari">İade Koşulları </a></li>
+                                
+                                <li><a href="/iletisim">İletişim </a></li>
+                                
+                                <li><a href="/markalar">Markalar </a></li>
+                                
+                                <li><a href="http://blog.bisikletcim.com">Blog  </a></li>
+                                
+                            </ul>
+                            
+                        </div>
+                        
+                    </div>
+                    <div style="clear: both" class="hide visible-sm visible-xs"></div>
+                    <div class="col-lg-5 col-md-5 col-sm-12 col-xs-24 ">
+                        
+                <h3>İLETİŞİM </h3>
+                <hr class="divider divider-xs">
+                <div class="support">
+                    <a class="inline" href="callto:+903462214660"><i class="fa fa-phone"></i>&nbsp;0346 221 46 60</a>
+                    <a class="inline" href="callto:+902167064770"><i class="fa fa-phone"></i>&nbsp;0216 706 47 70</a>
+                    <a class="inline" href="mailto:info@bisikletcim.com"><i class="fa fa-envelope"></i>&nbsp;info@bisikletcim.com</a>
+                    <p><i class="fa fa-map-marker"></i>1. Organize Sanayi Bölgesi 6. Cadde No:1 Merkez / SİVAS</p>
+                </div>
+                        
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-24 newsletter">
+                        
+                <h3>E-Bülten Kaydı</h3>
+                  <hr class="divider divider-xs" />
+                    <p>MAİL LİSTEMİZE ABONE OLUN</p>
+                <ul>
+                    <li>
+                        <div class="input-append news-letter-box text-center cnt-subscribe">
+                            <input type="text" class="full text-center input-sm" placeholder="E-Posta Adresinizi Girin!">
+                            <button class="btn  bg-gray btn-subscribe" type="button">
+                                GÖNDER
+                            </button>
+                        </div>
+                    </li>
+                </ul>
+                
+                        
+                    </div>
+                </div>
+                <!--/.row-->
+            </div>
+            <!--/.container-->
+        </div>
+        <!--/.footer-->
+        
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div id="" class="col-md-12 col-sm-24 credit-cards">
+                        
+                    <img src="/skins/shared/images/credit-cards/bonus.png" alt="Bonus">
+                    <img src="/skins/shared/images/credit-cards/maximum.png" alt="Maximum">
+                    <img src="/skins/shared/images/credit-cards/paraf.png" alt="Paraf">
+                    <img src="/skins/shared/images/credit-cards/advantage.png" alt="Advantage">
+                    <img src="/skins/shared/images/credit-cards/axess.png" alt="Axess">
+                    <img src="/skins/shared/images/credit-cards/world.png" alt="World">
+
+                        
+                    </div>
+                    <div id="" class="col-md-12 col-sm-24 footer-free">
+                                            <img src="/skins/shared/images/credit-cards/visa.png" alt="Visa">
+                    <img src="/skins/shared/images/credit-cards/master-card.png" alt="Master Card">
+                    <img src="/skins/shared/images/credit-cards/ssl.png" alt="SSL">
+                        
+                    </div>
+                    <div class="col-md-24 col-sm-24 text-center km-sign">
+                        
+                        <div id="918439950">KobiMaster
+                        <a href="https://www.kobimaster.com.tr" target="_blank"><strong  style="color: #0066CC;" title="E-Ticaret KobiMaster">E-Ticaret</strong></a>
+                        çözümü ile hazırlanmıştır.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/.footer-bottom-->
+    </div>
+</footer>
+
+
+
+    <div id="spinner" class="spinner" style="display: none;">
+        <img id="img-spinner" src="/skins/shared/images/spinner.gif" alt="Loading" />
+    </div>
+
+    <!-- javascript
+================================================== -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="/skins/shared/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/skins/shared/js/pace.min.js"></script>
+    
+    <script type="text/javascript" src="/skins/shared/js/jquery.mousewheel.min.js"></script>
+    
+    <script type="text/javascript" src="/skins/shared/js/jquery.mCustomScrollbar.js"></script>
+    
+    <script src="/skins/shared/js/grids.js"></script>
+    <script src="/skins/shared/js/jquery.easing.1.3.js"></script>
+    <script src="/skins/shared/js/jquery.cycle2.min.js"></script>
+    
+    <script src="/skins/shared/js/owl.carousel.min.js"></script>
+    
+    <script src="/skins/shared/js/bootstrap.touchspin.js"></script>
+
+    
+    <script src="/skins/shared/js/jquery.validate.js"></script>
+    <script src="/skins/shared/js/jquery.mask.min.js"></script>
+    <script src="/skins/shared/js/mustache.js"></script>
+
+    <script src="/scripts/km-library.js?qd=20580258" type="text/javascript"></script>
+    <script src="/scripts/km-page.js?qd=20580258" type="text/javascript"></script>
+    <script src="/scripts/km-page-default.js?qd=20580258" type="text/javascript"></script>
+
+    
+    <script src="/skins/shared/js/script.js?qd=20580258"></script>
+
+    
+
+    
+    
+<link rel="shortcut icon" href="/Images/Favicon.ico">
+
+
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create','UA-2356131-1', 'auto');
+    ga('require', 'ec');
+
+    
+    ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+    var google_tag_params = { ecomm_prodid: kmPageInfo.kmPageId, ecomm_pagetype: kmPageInfo.kmPageType, ecomm_totalvalue: kmPageInfo.kmPageValue };
+</script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1028876562;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt=""
+            src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1028876562/?value=&guid=ON&script=0" />
+    </div>
+</noscript>
+
+
+
+</body>
+</html>

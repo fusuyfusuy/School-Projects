@@ -1,0 +1,162 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.containerForm, body {
+    font-family: sans-serif;
+}
+.containerForm, 
+input[type="text"],
+[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.containerForm label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+.containerForm input[type="button"] {
+    background-color: #4caf50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+.containerForm input[type="button"]:hover {
+    background-color: #45a049;
+}
+
+.containerForm {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.containerForm .col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.containerForm .col-50 {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+}
+
+.containerForm .col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.containerForm .row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .containerForm
+    .col-25,
+    .col-75,
+    input[type="button"] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+.containerForm .slidecontainer {
+    width: 100%;
+    /* Width of the outside container */
+}
+
+/* The slider itself */
+.containerForm .slider {
+    -webkit-appearance: none;
+    /* Override default CSS styles */
+    appearance: none;
+    width: 100%;
+    /* Full-width */
+    height: 25px;
+    /* Specified height */
+    background: #d3d3d3;
+    /* Grey background */
+    outline: none;
+    /* Remove outline */
+    opacity: 0.7;
+    /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: 0.2s;
+    /* 0.2 seconds transition on hover */
+    transition: opacity 0.2s;
+    padding: 0;
+}
+
+/* Mouse-over effects */
+.containerForm .slider:hover {
+    opacity: 1;
+    /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.containerForm .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    /* Override default look */
+    appearance: none;
+    width: 25px;
+    /* Set a specific slider handle width */
+    height: 25px;
+    /* Slider handle height */
+    background: #4caf50;
+    /* Green background */
+    cursor: pointer;
+    /* Cursor on hover */
+}
+
+.containerForm .slider::-moz-range-thumb {
+    width: 25px;
+    /* Set a specific slider handle width */
+    height: 25px;
+    /* Slider handle height */
+    background: #4caf50;
+    /* Green background */
+    cursor: pointer;
+    /* Cursor on hover */
+}
+.loader {
+    display: none;
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+.results p{
+    color: black;
+}
+.results a{
+    color: darkblue;   
+}
+.results a:hover{
+    color: lightblue;   
+}

@@ -1,0 +1,28 @@
+{
+    'Marka': '',
+    'Model': '',
+
+    'Model Yılı': '', 
+    'Bisiklet Sınıfı': '', 
+    'Kullanıcı Sınıfı': '', 
+    'Yaş Grubu': '',
+    'Cinsiyet': '', 
+    'Vites Sayısı': '', 
+    'Kadro Malzemesi': '', 
+    'Ağırlık'
+
+    'Jant Çapı': '', 
+    'Jant Malzemesi': '',,
+    'Fren Tipi': '', 
+    'Amortisör': '', 
+    'Amortisör Konumu': '', 
+    'Amortisör Türü': '', 
+
+
+    'Elektrik Motoru': '', 
+    'Akü Gerilimi': '', 
+    'Akü Kapasitesi': '', 
+    'Motor Gücü': '', 
+    'Azami Sürüş Menzili': '', 
+    'Şarj Süresi': ''
+}

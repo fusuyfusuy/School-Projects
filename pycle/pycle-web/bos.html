@@ -1,0 +1,257 @@
+
+    <!-- Call Me -->
+    <div id="callMe" class="form-1">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-11">
+
+                    <!-- Call Me Form -->
+                    <div class="containerForm">
+                        <form>
+                            <div class="row priceMax">
+                                <div class="col-25">
+                                    <label for="inputPriceMax">Maximum price</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="number" id="inputPriceMax" name="maxprice"
+                                        placeholder="Your max price.." min="1" />
+                                </div>
+                            </div>
+                            <div class="row priceMin">
+                                <div class="col-25">
+                                    <label for="inputPriceMin">Minimum price</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="number" id="inputPriceMin" name="minprice"
+                                        placeholder="Your min price.." min="1" />
+                                </div>
+                            </div>
+                            <div class="row height">
+                                <div class="col-25">
+                                    <label for="inputHeight">Your height</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="number" id="inputHeight" name="height" placeholder="Your height.."
+                                        min="1" />
+                                </div>
+                            </div>
+                            <hr>
+                            <hr>
+                            <div class="row q1">
+                                <div class="col-25 q1">
+                                    <label for="typeQ1">Where do you usually plan to use the bike?</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="radio" id="Q1A1" name="qTerrain" value="1" />
+                                    <label for="rough">Rough terrain</label><br />
+                                    <input type="radio" id="Q1A2" name="qTerrain" value="2" />
+                                    <label for="road">Road - City</label><br />
+                                    <input type="radio" id="Q1A3" name="qTerrain" value="3" />
+                                    <label for="both">Both road and rough terrain</label>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row q2">
+                                <div class="col-25">
+                                    <label for="typeQ2">Do you have any plans to go on long rides?</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="radio" id="Q2A1" name="qRides" value="1" />
+                                    <label for="yes">Yes</label><br />
+                                    <input type="radio" id="Q2A2" name="qRides" value="2" />
+                                    <label for="time">Time to time</label><br />
+                                    <input type="radio" id="Q2A3" name="qRides" value="3" />
+                                    <label for="no">No</label>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row q3">
+                                <div class="col-25">
+                                    <label for="typeQ3">Are you an experienced rider?</label>
+                                </div>
+                                <div class="col-75">
+                                    <input type="radio" id="Q3A1" name="qExperience" value="1" />
+                                    <label for="yes">Yes</label><br />
+                                    <input type="radio" id="Q3A2" name="qExperience" value="2" />
+                                    <label for="partially">Partially</label><br />
+                                    <input type="radio" id="Q3A3" name="qExperience" value="3" />
+                                    <label for="no">No</label>
+                                </div>
+                            </div>
+                            <hr>
+                            <hr>
+                            <div class="row sliders">
+                                <p>
+                                    Please slide the slider to the side which you prefer.
+                                    <br><br> Only move the slider if you are sure that you prefer one option to the
+                                    other.
+                                    <br><br>If you are not absolutely sure you prefer one to the other, please do not
+                                    slide to the end,
+                                    try to choose a middle point.
+                                    <br><br>Be careful to be consistent.
+
+                                </p>
+                            </div>
+                            <div class="row slider1">
+                                <div class="col-25">
+                                    <span>Ease For Climbing</span>
+                                </div>
+                                <div class="col-50">
+                                    <div class="slidecontainer">
+                                        <input type="range" min="1" max="17" value="9" class="slider" id="climbSpeed" />
+                                    </div>
+                                </div>
+                                <div class="col-25">
+                                    <span>High Speed Control</span>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row slider2">
+                                <div class="col-25">
+                                    <span>Control Over Rough Terrain</span>
+                                </div>
+                                <div class="col-50">
+                                    <div class="slidecontainer">
+                                        <input type="range" min="1" max="17" value="9" class="slider" id="roughSpeed" />
+                                    </div>
+                                </div>
+                                <div class="col-25">
+                                    <span>High Speed Control</span>
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row slider3">
+                                <div class="col-25">
+                                    <span>Ease For Climbing</span>
+                                </div>
+                                <div class="col-50">
+                                    <div class="slidecontainer">
+                                        <input type="range" min="1" max="17" value="9" class="slider" id="climbRough" />
+                                    </div>
+                                </div>
+                                <div class="col-25">
+                                    <span>Control Over Rough Terrain</span>
+                                </div>
+                            </div>
+                            <br>
+                            <hr>
+                            <hr><br>
+                            <div class="row priorities">
+                                <p>
+                                    Please fill the table with comparison scores. A comparison score is a number between
+                                    1 and 9
+                                    which denotes your preference between the criteria at the right to the criteria at
+                                    the top.
+                                    <br><br> Note that the table is reciprocal on the y=(-x) axis, the table will update
+                                    itself as you enter.
+                                    <br><br> In cases where the criteria is compared to itself, the result will always
+                                    be 1, this cells cannot be changed.
+                                    <br><br> Be careful to be consistent.
+                                </p>
+                                <table class="table" id="priorityTable" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td>&nbsp;</td>
+                                        <td>Price</td>
+                                        <td>Weight</td>
+                                        <td>Type</td>
+                                        <td>Frame Size</td>
+                                        <td>Technical</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Price</td>
+                                        <td><input type="number" value=1 readonly disabled /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Weight</td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" value=1 readonly disabled /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                    <tr>
+                                        <td>Type</td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" value=1 readonly disabled /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                    <tr>
+                                        <td>Frame Size</td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" value=1 readonly disabled /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                    <tr>
+                                        <td>Technical</td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" step=".01" min="0.11" max="9"
+                                                onkeyup="updateTable(this.parentNode)"
+                                                onchange="updateTable(this.parentNode)" /></td>
+                                        <td><input type="number" value=1 readonly disabled /></td>
+
+                                    </tr>
+                                </table>
+                            </div>
+
+                            <div class="row">
+                                <input type="button" value="Submit" onClick=run() />
+                            </div>
+                        </form>
+                        <div class="loader"></div>
+
+                    </div>
+                    <!-- end of call me form -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of form-1 -->
+    <!-- end of call me -->

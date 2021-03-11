@@ -1,0 +1,650 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .containerForm, body {
+            font-family: sans-serif;
+        }
+        .containerForm, 
+        input[type="text"],
+        [type="number"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: vertical;
+        }
+
+        .containerForm label {
+            padding: 12px 12px 12px 0;
+            display: inline-block;
+        }
+
+        .containerForm input[type="button"] {
+            background-color: #4caf50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            float: right;
+        }
+
+        .containerForm input[type="button"]:hover {
+            background-color: #45a049;
+        }
+
+        .containerForm {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        .containerForm .col-25 {
+            float: left;
+            width: 25%;
+            margin-top: 6px;
+        }
+
+        .containerForm .col-50 {
+            float: left;
+            width: 50%;
+            margin-top: 6px;
+        }
+
+        .containerForm .col-75 {
+            float: left;
+            width: 75%;
+            margin-top: 6px;
+        }
+
+        /* Clear floats after the columns */
+        .containerForm .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+        @media screen and (max-width: 600px) {
+            .containerForm
+            .col-25,
+            .col-75,
+            input[type="button"] {
+                width: 100%;
+                margin-top: 0;
+            }
+        }
+
+        .containerForm .slidecontainer {
+            width: 100%;
+            /* Width of the outside container */
+        }
+
+        /* The slider itself */
+        .containerForm .slider {
+            -webkit-appearance: none;
+            /* Override default CSS styles */
+            appearance: none;
+            width: 100%;
+            /* Full-width */
+            height: 25px;
+            /* Specified height */
+            background: #d3d3d3;
+            /* Grey background */
+            outline: none;
+            /* Remove outline */
+            opacity: 0.7;
+            /* Set transparency (for mouse-over effects on hover) */
+            -webkit-transition: 0.2s;
+            /* 0.2 seconds transition on hover */
+            transition: opacity 0.2s;
+        }
+
+        /* Mouse-over effects */
+        .containerForm .slider:hover {
+            opacity: 1;
+            /* Fully shown on mouse-over */
+        }
+
+        /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+        .containerForm .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            /* Override default look */
+            appearance: none;
+            width: 25px;
+            /* Set a specific slider handle width */
+            height: 25px;
+            /* Slider handle height */
+            background: #4caf50;
+            /* Green background */
+            cursor: pointer;
+            /* Cursor on hover */
+        }
+
+        .containerForm .slider::-moz-range-thumb {
+            width: 25px;
+            /* Set a specific slider handle width */
+            height: 25px;
+            /* Slider handle height */
+            background: #4caf50;
+            /* Green background */
+            cursor: pointer;
+            /* Cursor on hover */
+        }
+        .loader {
+            display: none;
+            border: 16px solid #f3f3f3; /* Light grey */
+            border-top: 16px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            animation: spin 2s linear infinite;
+          }
+          
+          @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+          }
+    </style>
+</head>
+
+<body>
+    <div class="containerForm">
+        <form>
+            <div class="row priceMax">
+                <div class="col-25">
+                    <label for="inputPriceMax">Maximum price</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="inputPriceMax" name="maxprice" placeholder="Your max price.." min="1" />
+                </div>
+            </div>
+            <div class="row priceMin">
+                <div class="col-25">
+                    <label for="inputPriceMin">Minimum price</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="inputPriceMin" name="minprice" placeholder="Your min price.." min="1" />
+                </div>
+            </div>
+            <div class="row height">
+                <div class="col-25">
+                    <label for="inputHeight">Your height</label>
+                </div>
+                <div class="col-75">
+                    <input type="number" id="inputHeight" name="height" placeholder="Your height.." min="1" />
+                </div>
+            </div>
+            <div class="row q1">
+                <div class="col-25 q1">
+                    <label for="typeQ1">Where do you usually plan to use the bike?</label>
+                </div>
+                <div class="col-75">
+                    <input type="radio" id="Q1A1" name="qTerrain" value="1" />
+                    <label for="rough">Rough terrain</label><br />
+                    <input type="radio" id="Q1A2" name="qTerrain" value="2" />
+                    <label for="road">Road - City</label><br />
+                    <input type="radio" id="Q1A3" name="qTerrain" value="3" />
+                    <label for="both">Both road and rough terrain</label>
+                </div>
+            </div>
+            <div class="row q2">
+                <div class="col-25">
+                    <label for="typeQ2">Do you have any plans to go on long rides?</label>
+                </div>
+                <div class="col-75">
+                    <input type="radio" id="Q2A1" name="qRides" value="1" />
+                    <label for="yes">Yes</label><br />
+                    <input type="radio" id="Q2A2" name="qRides" value="2" />
+                    <label for="time">Time to time</label><br />
+                    <input type="radio" id="Q2A3" name="qRides" value="3" />
+                    <label for="no">No</label>
+                </div>
+            </div>
+            <div class="row q3">
+                <div class="col-25">
+                    <label for="typeQ3">Are you an experienced rider?</label>
+                </div>
+                <div class="col-75">
+                    <input type="radio" id="Q3A1" name="qExperience" value="1" />
+                    <label for="yes">Yes</label><br />
+                    <input type="radio" id="Q3A2" name="qExperience" value="2" />
+                    <label for="partially">Partially</label><br />
+                    <input type="radio" id="Q3A3" name="qExperience" value="3" />
+                    <label for="no">No</label>
+                </div>
+            </div>
+
+            <div class="row sliders">
+                <p>
+                    Please slide the slider to the side which you prefer. If you are not
+                    absolutely sure you prefer one to the other, please do not slide to the end,
+                    try to choose a middle point. Be careful to be consistent. please do that do thos
+                </p>
+            </div>
+            <div class="row slider1">
+                <div class="col-25">
+                    <span>Ease For Climbing</span>
+                </div>
+                <div class="col-50">
+                    <div class="slidecontainer">
+                        <input type="range" min="1" max="17" value="9" class="slider" id="climbSpeed" />
+                    </div>
+                </div>
+                <div class="col-25">
+                    <span>High Speed Control</span>
+                </div>
+            </div>
+            <br>
+            <div class="row slider2">
+                <div class="col-25">
+                    <span>Control Over Rough Terrain</span>
+                </div>
+                <div class="col-50">
+                    <div class="slidecontainer">
+                        <input type="range" min="1" max="17" value="9" class="slider" id="roughSpeed" />
+                    </div>
+                </div>
+                <div class="col-25">
+                    <span>High Speed Control</span>
+                </div>
+            </div>
+            <br>
+            <div class="row slider3">
+                <div class="col-25">
+                    <span>Ease For Climbing</span>
+                </div>
+                <div class="col-50">
+                    <div class="slidecontainer">
+                        <input type="range" min="1" max="17" value="9" class="slider" id="climbRough" />
+                    </div>
+                </div>
+                <div class="col-25">
+                    <span>Control Over Rough Terrain</span>
+                </div>
+            </div>
+            <br><br>
+            <div class="row priorities">
+                <p>
+                    Please fill the table with comparison scores. A comparison score is a number between 1 and 9 
+                    which denotes your preference between the criteria at the right to the criteria at the top.
+                    <br><br> Only move the slider if you are sure that you prefer one option to the other. 
+                    <br><br> Note that the table is reciprocal on the y=(-x) axis, the table will update itself as you enter.
+                    <br><br> In cases where the criteria is compared to itself, the result will always be 1, this cells cannot be changed.
+                </p>
+            <table class="table" id="priorityTable" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>Price</td>
+                    <td>Weight</td>
+                    <td>Type</td>
+                    <td>Frame Size</td>
+                    <td>Technical</td>
+
+                </tr>
+                <tr>
+                    <td>Price</td>
+                    <td><input type="number" value=1 readonly/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+
+                </tr>
+                <tr>
+                    <td>Weight</td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" value=1 readonly/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                <tr>
+                    <td>Type</td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" value=1 readonly/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                <tr>
+                    <td>Frame Size</td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" value=1 readonly/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                <tr>
+                    <td>Technical</td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" step=".01" min="0.11" max="9" onkeyup="updateTable(this.parentNode)" onchange="updateTable(this.parentNode)"/></td>
+                    <td><input type="number" value=1 readonly/></td>
+
+                </tr>
+            </table></div>
+
+            <div class="row">
+                <input type="button" value="Submit" onClick=run() />
+            </div>
+        </form>
+        <div class="loader"></div> 
+        <div class="results" id="results">
+
+    </div>
+
+    </div>
+    <script src="question.js"></script> <!-- Custom scripts -->
+
+</body>
+
+<script>
+    
+function updateTable(changedCell){
+    left = changedCell.cellIndex
+    right = changedCell.parentNode.rowIndex
+    me = parseFloat(changedCell.querySelector("input").value)
+    document.getElementById("priorityTable").rows[left].cells[right].querySelector("input").value = (1/me).toPrecision(2)
+}
+function matrixify(array){
+    let matrix
+    if(array.length==10){
+        matrix = [
+        [1,           array[0],    array[1],   array[2],   array[3]],
+        [1/array[0], 1,            array[4],   array[5],   array[6]],
+        [1/array[1], 1/array[4],  1,           array[7],   array[8]],
+        [1/array[2], 1/array[5],  1/array[7], 1,           array[9]],
+        [1/array[3], 1/array[6],  1/array[8], 1/array[9], 1]
+        ]
+    }
+    else if(array.length==3){
+        matrix = [
+        [1,           array[0],   array[1]],
+        [1/array[0], 1,           array[2]],
+        [1/array[1], 1/array[2], 1]
+        ]
+    }
+    else {
+        console.log("matrixify error ---",array)
+        console.log("matrixify error ---", array.length)
+        return false
+    }
+    return matrix
+}
+function consistencyCheck(matrix){
+    let l = matrix.length
+    let matrixSums = []
+    for(let i = 0; i<l; i++){
+        let sum = 0
+        for(let j =0; j<l;j++){
+            sum += matrix[j][i]
+        }
+        matrixSums.push(sum)
+    }
+    let standardizedMatrix = []
+    for(let i = 0; i<l; i++){
+        standardizedMatrix.push([])
+        for(let j = 0; j<l; j++){
+            standardizedMatrix[i].push(matrix[i][j]/matrixSums[j])
+        }
+    }
+
+    let averages = []
+    for(let i = 0; i<l; i++){
+        let sum = 0
+        for(let j = 0; j<l; j++){
+            sum+=standardizedMatrix[i][j]
+        }
+        averages.push(sum/l)
+    }
+
+    ax = []
+    for(let i = 0; i<l;i++){
+        let sum = 0
+        for(let j = 0; j<l;j++){
+            sum += matrix[i][j] * averages[j]
+        }
+        ax.push(sum)
+    }
+    let lambdaMax = 0
+    let lambdaSum = 0
+    for(let i = 0; i<l; i++){
+        lambdaSum += ax[i]/averages[i]
+    }
+    lambdaMax = lambdaSum/l
+    let CI = (lambdaMax-l)/(l-1)
+    if(CI<0.1) return true
+    else return false
+}
+function getInputs(){
+    inputMaxPrice = parseFloat(document.getElementById("inputPriceMax").value)
+    inputMinPrice = parseFloat(document.getElementById("inputPriceMin").value)
+    if(isNaN(inputMaxPrice) || isNaN(inputMinPrice)){
+        alert("Prices must be a number!")
+        return false
+    }
+    else if(inputMaxPrice < 1 || inputMinPrice < 1){
+        alert("Prices cannot be lower than 1!")
+        return false
+    }
+    else if(inputMinPrice >= inputMaxPrice){
+        alert("Maximum price must be bigger than minimum price!")
+        return false
+    }
+
+
+    inputHeight = parseFloat(document.getElementById("inputHeight").value)
+    if(isNaN(inputHeight)){
+        alert("Height must be a number!")
+        return false
+    }
+    else if(inputHeight < 1){
+        alert("Height cannot be lower than 1!")
+        return false
+    }
+
+
+
+    Q1 = document.getElementsByName("qTerrain")
+    Q2 = document.getElementsByName("qRides")
+    Q3 = document.getElementsByName("qExperience")
+    A1 = -1
+    A2 = -1
+    A3 = -1
+    check1 = 0
+    check2 = 0
+    check3 = 0
+    for(let i = 0, l = Q1.length; i < l; i++){
+        if(Q1[i].checked){
+            A1 = i
+            check1++
+        }
+        if(Q2[i].checked){
+            A2 = i
+            check2++
+        }
+        if(Q3[i].checked){
+            A3 = i
+            check3++
+        }
+    }
+    if(check1==0 || check2==0 || check3==0){
+        alert("Please answer all the questions!")
+        return false
+    }
+
+    // mountain, hybrid, road
+    inputTypeWeights = [5, 5, 5]
+    switch(A1){
+        case 0:
+            inputTypeWeights[0] += 2
+            inputTypeWeights[2] -= 1
+            break;
+        case 1:
+            inputTypeWeights[1] +=1
+            inputTypeWeights[2] +=2
+            break;
+        case 2:
+            inputTypeWeights[0] += 1
+            inputTypeWeights[1] += 2
+            break;
+    }
+    switch(A2){
+        case 0:
+            inputTypeWeights[2] += 3
+            break;
+        case 1:
+            inputTypeWeights[2] += 1
+            break;
+        case 2:
+            break;
+    }
+    switch(A3){
+        case 0:
+            break;
+        case 1:
+            inputTypeWeights[2] -= 1
+            break;
+        case 2:
+            inputTypeWeights[2] -= 2
+            break;
+    }
+
+    // climb/transmisson. speed/brake. rough/suspension
+    // sirasi = brake, transmission, suspension
+    //'brakeTransmission': speedClimb,
+    //'brakeSuspension': speedRough,
+    //'transmissionSuspension': climbRough
+
+    techPriorities = [0, 0, 0]
+    climbSpeed = document.getElementById("climbSpeed").value
+    roughSpeed = document.getElementById("roughSpeed").value
+    climbRough = document.getElementById("climbRough").value
+    function sliderToPriority(number){
+        check = number - 9
+        if(check < 0){
+            return Math.abs(check)+1
+        }
+        else if(check == 0) return 1
+        else return 1/(check+1)
+    }
+    techPriorities[0] = 1/sliderToPriority(climbSpeed)
+    techPriorities[1] = 1/sliderToPriority(roughSpeed)
+    techPriorities[2] = sliderToPriority(climbRough)
+
+    techMatrix = matrixify(techPriorities)
+    if(!techMatrix) {
+        alert("Matrixify techMatrix wrong!")
+        return false
+    }
+    techCheck = consistencyCheck(techMatrix)
+    if(!techCheck){
+        alert("Sliders are not consistent!")
+        return false
+    }
+    priorityMatrix = []
+    priorityTable = document.getElementById("priorityTable")
+    let isnancheck = 0
+    let ninecheck = 0
+    let elevencheck = 0
+    for(let i = 1, length = priorityTable.rows.length; i<length; i++){
+        for(let j = 1; j<length; j++){
+            if(priorityTable.rows[i].cells[j].querySelector("input").value == ''){
+                alert("Comparison scores must be numbers")
+                return false
+            }
+            else if(parseFloat(priorityTable.rows[i].cells[j].querySelector("input").value)>9){
+                alert("Comparison scores cannot be larger than 9")
+                return false
+            }
+            else if(parseFloat(priorityTable.rows[i].cells[j].querySelector("input").value)<0.11){
+                alert("Comparison scores cannot be smaller than 1/9 (0.111111)")
+                return false
+            }
+        }
+    }
+
+    for(let i = 1, length = priorityTable.rows.length; i<length; i++){
+        for(let j = i+1, length2 = priorityTable.rows.length; j<length2; j++){
+            priorityMatrix.push(parseFloat(priorityTable.rows[i].cells[j].querySelector("input").value))
+        }
+    }
+    if(priorityMatrix.length != 10){
+        console.log("ERROR PRIORITY MATRIX INPUT CALCULATION")
+        return
+    }
+    priorityMatrix2 = matrixify(priorityMatrix)
+    if(!priorityMatrix2){
+        alert("Matrixify priorityMatrix wrong!")
+        return false
+    }
+    priorityCheck = consistencyCheck(priorityMatrix2)
+    if(!priorityCheck){
+        alert("Comparison scores are not consistent!")
+        return false
+    }
+
+    returnJson = {
+        "inputPriceMin": inputMinPrice, 
+        "inputPriceMax": inputMaxPrice, 
+        "inputHeight": inputHeight, 
+        "inputTypeWeights": inputTypeWeights, 
+        "inputPriorities": priorityMatrix, 
+        "inputTechPriorities" : techPriorities
+    }
+    return returnJson
+}
+function run(){
+    toSend = getInputs()
+    if(!toSend){
+        alert("Something is wrong!")
+        return false
+    }
+
+
+    loader = document.querySelector(".loader")
+    loader.style.display="block"
+    
+    resultDiv = document.getElementsByClassName("results")[0]
+    resultDiv.textContent = ''
+    console.log('sending this ', toSend)
+    toSend = JSON.stringify(toSend)
+    
+    const xhr = new XMLHttpRequest()
+    let results = 0
+    chainurl = "https://www.chainreactioncycles.com"
+    xhr.addEventListener('readystatechange', function() {
+        if (this.readyState === this.DONE) {
+            console.log('result is ', JSON.parse(this.responseText))
+            results = JSON.parse(this.responseText)
+            loader.style.display="none"
+            resultDiv = document.querySelector(".results")
+            for(i in results){
+                let iplus = parseInt(i)+1
+                newElement = document.createElement('p')
+                newElement.innerHTML   = iplus +'.<br>'+
+                                         'Brand:   '+results[i]['Brand'] + '<br>' + 
+                                         'Model:   '+results[i]['Model'] + '<br>' +
+                                         'Price:   '+results[i]['Price'] + '<br>' +
+                                         'Type:    ' +results[i]['Type'] + '<br>' +
+                                         "<a href='"+chainurl+results[i]['url']+"' target='_blank'>Click to go bicycle page</a>"
+                resultDiv.appendChild(newElement)
+            }
+        }
+    })
+
+    xhr.open('POST', 'http://127.0.0.1:5000/')
+    xhr.setRequestHeader('content-type', 'application/json')
+
+    xhr.send(toSend)
+}
+
+</script>
+</html>
