@@ -17,3 +17,7 @@ To test the system, clone the repo, install the requirements with `pip3 install 
 ---
 
 ![image](https://user-images.githubusercontent.com/53492577/110799504-46cffc00-828c-11eb-9468-8484cab7b975.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53492577/110799504-46cffc00-828c-11eb-9468-8484cab7b975.png" alt="Pycle web screenshot" />
+</p>
